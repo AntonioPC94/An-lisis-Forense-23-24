@@ -1,6 +1,6 @@
 # Incident Investigation
 
-![img01](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/ed438d094539490e9f88498cf69c91ede77e95b5/Pr%C3%A1cticas/img/img01.jpeg)
+![img01](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/25a8cfdcae5fa66e616d52d7da0f388bb8ef03b5/Pr%C3%A1cticas/img/img01.jpeg)
 
 Trabajo realizado por: Antonio Peñalver Caro
 
@@ -15,7 +15,7 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 # Introducción
 
-En este proyecto, nos encontraremos ante un incidente de seguridad ocurrido en una empresa particular. Desde ¿Ciberseguros? G4. nos encargaremos de averiguar lo que ha ocurrido siguiendo nuestra metodología, empezando por la adquisición de las distintas evidencias y terminando por el almacenamiento y el análisis de las mismas.
+En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en una empresa particular. Desde ¿Ciberseguros? G4. nos encargaremos de averiguar lo que ha ocurrido siguiendo nuestra metodología, empezando por la adquisición de las distintas evidencias y terminando por el almacenamiento y el análisis de las mismas.
 
 # Descripción del Incidente
 
