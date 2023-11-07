@@ -19,7 +19,13 @@ En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en una
 
 # Descripción del Incidente
 
-Al llegar al lugar del incidente, nos encontramos con un equipo encendido. Lo primero que hicimos, fue fotografiar la escena (**CONTINUAR**)
+Al llegar al lugar del incidente, nos encontramos con un equipo encendido. Lo primero que hicimos, fue desconectar el cable de red de la máquina para evitar que, en caso de que se tratase de un ransomware, este no se propagase por la red de la empresa. Luego fotografiamos la escena para poder realizar posteriormente una reconstrucción del caso y acto seguido, nos sentamos frente al equipo para ver qué había ocurrido.
+
+En el "Escritorio" de la máquina, se visualizaban dos ficheros: Un script de Python y un fichero de texto, ambos con el mismo nombre. (**CONTINUAR**)
+
+![img02]()
+
+
 
 # Proceso de Recolección de Evidencias
 
