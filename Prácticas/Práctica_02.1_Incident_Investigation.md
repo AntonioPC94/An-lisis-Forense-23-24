@@ -19,15 +19,35 @@ En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en una
 
 # Descripción del Incidente
 
-Al llegar al lugar del incidente, nos encontramos con un equipo encendido. Lo primero que hicimos, fue desconectar el cable de red de la máquina para evitar que, en caso de que se tratase de un ransomware, este no se propagase por la red de la empresa. Luego fotografiamos la escena para poder realizar posteriormente una reconstrucción del caso y acto seguido, nos sentamos frente al equipo para ver qué había ocurrido.
+Al llegar al lugar del incidente, nos encontramos con un equipo encendido. Lo primero que hicimos, fue desconectar el cable de red de la máquina para evitar que el problema se siguiese propagando por los distintos equipos de la red. A continuación, fotografiamos la escena para poder realizar posteriormente una reconstrucción del caso y por último, nos sentamos frente al equipo para ver qué es lo que ha ocurrido.
 
-En el "Escritorio" de la máquina, se visualizaban dos ficheros: Un script de Python y un fichero de texto, ambos con el mismo nombre. (**CONTINUAR**)
+En el "Escritorio" del equipo, salía un mensaje que nos pedía reiniciar para poder aplicar unos cambios en el equipo. Evidentemente, clickamos sobre "Reiniciar más tarde" para no perder los datos volátiles de la máquina.
 
 ![img02]()
 
-
+Una vez quitado el mensaje, sacamos nuestras herramientas forenses para poder comenzar con el proceso de recolección de evidencias.
 
 # Proceso de Recolección de Evidencias
+
+En este proceso, nos regiremos por nuestra propia metodología: APINA G4. Según el apartado 2.1 de esta, el orden de volatilidad que debemos de seguir a la hora de realizar adquisiciones en dispostivos informáticos, es el siguiente:
+
+- Registros y contenido de la caché.
+- Tabla de enrutamiento, caché ARP, tabla de procesos, estadísticas del kernel y memoria.
+- Información temporal del sistema.
+- Disco.
+- Logs del sistema.
+- Configuración física y topología de la red.
+- Documentos.
+
+En este caso, vamos a realizar adquisiciones de la memoria RAM del sistema y del disco físico del equipo.
+
+## Adquisición de Memoria
+
+Para esta parte del proceso, escogeremos la herramienta Magnet Forensics, la cual es sencilla de utilizar y cumple con su cometido. (**CONTINUAR**)
+
+## Triage
+
+## Adquisición de Disco
 
 # Proceso de Almacenamiento de Evidencias
 
