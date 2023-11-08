@@ -39,15 +39,31 @@ En este proceso, nos regiremos por nuestra propia metodología: APINA G4. Según
 - Configuración física y topología de la red.
 - Documentos.
 
-En este caso, vamos a realizar adquisiciones de la memoria RAM del sistema y del disco físico del equipo.
+Pero en este caso, vamos a realizar adquisiciones de la memoria RAM del sistema y del disco físico del equipo.
 
 ## Adquisición de Memoria
 
-Para esta parte del proceso, escogeremos la herramienta Magnet Forensics, la cual es sencilla de utilizar y cumple con su cometido. (**CONTINUAR**)
+Para esta parte del proceso, escogeremos la herramienta Magnet Forensics, la cual es sencilla de utilizar y cumple con su cometido.
+
+Lo único que le tenemos que indicar a esta herramienta, es la ruta donde queremos almacenar la captura de RAM. En nuestro caso, la almacenaremos en un disco duro externo. Una vez le hayamos indicado la ruta al programa, le daremos a "Start" para que comience con la adquisición.
+
+![img03]()
+
+Una vez haya finalizado, el programa nos mostrará la siguiente ventana:
+
+![img04]()
+
+(**CONTINUAR**)
 
 ## Triage
 
 ## Adquisición de Disco
+
+Para esta parte del proceso, escogeremos la herramienta FTK Imager, la cual nos servirá para recopilar toda la información contenida en el disco de la máquina vulnerada. 
+
+(**CONTINUAR**)
+
+
 
 # Proceso de Almacenamiento de Evidencias
 
