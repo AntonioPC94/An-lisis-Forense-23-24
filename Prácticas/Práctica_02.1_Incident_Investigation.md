@@ -21,11 +21,15 @@ En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en una
 
 Al llegar al lugar del incidente, nos encontramos con un equipo encendido. Lo primero que hicimos, fue desconectarle el cable ethernet para evitar que el problema se siguiese propagando por el resto de equipos de la red. Acto seguido, despejamos la zona de personas ajenas al caso y fotografiamos la escena para luego poder realizar una reconstrucción del caso. Por último, nos sentamos frente al equipo para ver qué es lo que había ocurrido.
 
-En el "Escritorio" del equipo, salía un mensaje que nos pedía reiniciar para poder aplicar unos cambios en el equipo. Evidentemente, clickamos sobre "Reiniciar más tarde" para no perder los datos volátiles de la máquina.
+En el "Escritorio" del equipo se podían visualizar 3 cosas:
+
+- Un mensaje que nos pedía reiniciar para poder aplicar unos cambios en el equipo. Evidentemente, clickamos sobre "Reiniciar más tarde" para no perder los datos volátiles de la máquina.
+
+- Un par de ficheros, los cuales no abriremos hasta el proceso de análisis de las evidencias.
 
 ![img02]()
 
-Una vez quitado el mensaje, sacamos nuestras herramientas forenses para poder comenzar con el proceso de recolección de evidencias.
+A continuación, sacamos nuestras herramientas forenses para poder comenzar con el proceso de recolección de evidencias.
 
 # Proceso de Recolección de Evidencias
 
