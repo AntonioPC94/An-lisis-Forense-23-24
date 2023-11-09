@@ -113,7 +113,7 @@ A continuación, mostraremos al programa funcionando y mostrando como resultado 
 
 ### Visualizando los hashes
 
-![img15](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img15.png)
+![img15](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/373667f27acf16627947c22969d5dc1be435ade1/Pr%C3%A1cticas/img/img15.png)
 
 # Proceso de Almacenamiento de Evidencias
 
