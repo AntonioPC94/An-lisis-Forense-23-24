@@ -57,13 +57,31 @@ Una vez haya finalizado, el programa nos mostrará la siguiente ventana:
 
 ![img04]()
 
-(**CONTINUAR**)
+Por último, hashearemos la evidencia con HashMyFiles, lo cual nos servirá para preservar la integridad de la misma y la cadena de custodia.
+
+![img05]()
 
 ## Triage
+Como en este caso nos interesa saber qué se hizo con la máquina antes, durante y después de la vulneración de la misma, utilizaremos LastActivityView para poder sacar datos como:
+
+- Inicios de sesión
+- Instalación y ejecución de programas
+- Carpeta Prefetch
+- Creación de puntos de restauración
+- Creación de archivos
+- Etcétera
+
+![img06]()
+
+Por último, hashearemos la evidencia con HashMyFiles, lo cual nos servirá para preservar la integridad de la misma y la cadena de custodia.
+
+![img07]()
 
 ## Adquisición de Disco
 
-Para esta parte del proceso, escogeremos la herramienta FTK Imager, la cual nos servirá para recopilar toda la información contenida en el disco de la máquina vulnerada. 
+Para esta parte del proceso, escogeremos la herramienta FTK Imager, la cual nos servirá para recopilar toda la información contenida en el disco de la máquina vulnerada.
+
+
 
 (**CONTINUAR**)
 
