@@ -81,9 +81,7 @@ Por último, hashearemos la evidencia con HashMyFiles, lo cual nos servirá para
 
 Para esta parte del proceso, escogeremos la herramienta FTK Imager, la cual nos servirá para recopilar toda la información contenida en el disco de la máquina vulnerada.
 
-
-
-(**CONTINUAR**)
+Lo primero que tendremos que indicarle al programa, (**CONTINUAR**)
 
 
 
