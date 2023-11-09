@@ -7,11 +7,11 @@ Trabajo realizado por: Antonio Peñalver Caro
 # Índice
 
 1. [Introducción](#introducción)
-2. [Descripción del Incidente](#descripción_del_incidente)
-3. [Proceso de Recolección de Evidencias](#proceso_de_recolección_de_evidencias)
-4. [Proceso de Almacenamiento de Evidencias](#proceso_de_almacenamiento_de_evidencias)
-5. [Cadena de Custodia](#cadena_de_custodia)
-6. [Metodología Seguida](#metodología_seguida)
+2. [Descripción del Incidente](#descripción-del-incidente)
+3. [Proceso de Recolección de Evidencias](#proceso-de-recolección-de-evidencias)
+4. [Proceso de Almacenamiento de Evidencias](#proceso-de-almacenamiento-de-evidencias)
+5. [Cadena de Custodia](#cadena-de-custodia)
+6. [Metodología Seguida](#metodología-seguida)
 
 # Introducción
 
