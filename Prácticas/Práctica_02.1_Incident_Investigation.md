@@ -8,7 +8,7 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 1. [Introducción](#introducción)
 2. [Descripción del Incidente](#descripción-del-incidente)
-3. [Proceso de Recolección de Evidencias](#proceso-de-recolección-de-evidencias)
+3. [Proceso de Recolección de Evidencias por Orden de Volatilidad](#proceso-de-recolección-de-evidencias-por-orden-de-volatilidad)
 4. [Proceso de Almacenamiento de Evidencias](#proceso-de-almacenamiento-de-evidencias)
 5. [Cadena de Custodia](#cadena-de-custodia)
 6. [Metodología Seguida](#metodología-seguida)
@@ -31,7 +31,7 @@ En el "Escritorio" del equipo se podían visualizar 3 cosas:
 
 A continuación, sacamos nuestras herramientas forenses y comenzamos con el proceso de recolección de evidencias.
 
-# Proceso de Recolección de Evidencias
+# Proceso de Recolección de Evidencias por Orden de Volatilidad
 
 En este proceso, nos regiremos por nuestra propia metodología: APINA G4. Según el apartado 2.1 de esta, el orden de volatilidad que debemos de seguir a la hora de realizar adquisiciones en dispostivos informáticos, es el siguiente:
 
