@@ -109,7 +109,7 @@ A continuación, mostraremos al programa funcionando y mostrando como resultado 
 
 ### Verificando
 
-![img14](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img14.png)
+![img14](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/84f59d298a3b7172fac7c87d6671eb362c7de7de/Pr%C3%A1cticas/img/img14.png)
 
 ### Visualizando los hashes
 
