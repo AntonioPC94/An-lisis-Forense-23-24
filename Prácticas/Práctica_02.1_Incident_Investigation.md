@@ -27,7 +27,7 @@ En el "Escritorio" del equipo se podían visualizar 3 cosas:
 
 - Un par de ficheros, los cuales no abriremos hasta el proceso de análisis de las evidencias.
 
-![img02]()
+![img02](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img02.png)
 
 A continuación, sacamos nuestras herramientas forenses y comenzamos con el proceso de recolección de evidencias.
 
@@ -51,15 +51,15 @@ Para esta parte del proceso, escogeremos la herramienta Magnet Forensics, la cua
 
 Lo único que le tenemos que indicar a esta herramienta, es la ruta donde queremos almacenar la captura de RAM. En nuestro caso, la almacenaremos en un disco duro externo. Una vez le hayamos indicado la ruta al programa, le daremos a "Start" para que comience con la adquisición.
 
-![img03]()
+![img03](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img03.png)
 
 Una vez haya finalizado, el programa nos mostrará la siguiente ventana:
 
-![img04]()
+![img04](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img04.png)
 
 Por último, hashearemos la evidencia con HashMyFiles, lo cual nos servirá para preservar la integridad de la misma y la cadena de custodia.
 
-![img05]()
+![img05](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img05.png)
 
 ## Triage
 Como en este caso nos interesa saber qué se hizo con la máquina antes, durante y después de la vulneración de la misma, utilizaremos LastActivityView para poder sacar datos como:
@@ -71,11 +71,11 @@ Como en este caso nos interesa saber qué se hizo con la máquina antes, durante
 - Creación de archivos
 - Etcétera
 
-![img06]()
+![img06](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img06.png)
 
 Por último, hashearemos la evidencia con HashMyFiles, lo cual nos servirá para preservar la integridad de la misma y la cadena de custodia.
 
-![img07]()
+![img07](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img07.png)
 
 ## Adquisición de Disco
 
