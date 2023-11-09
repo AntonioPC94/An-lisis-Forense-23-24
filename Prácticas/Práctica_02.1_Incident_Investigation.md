@@ -117,7 +117,7 @@ A continuación, mostraremos al programa funcionando y mostrando como resultado 
 
 # Proceso de Almacenamiento de Evidencias
 
-En este proceso, también nos regiremos por nuestra propia metodología. Según el apartado 3 de esta, el prceso de almacenamiento es el siguiente:
+En este proceso, también nos regiremos por nuestra propia metodología. Según el apartado 3 de esta, el proceso de almacenamiento es el siguiente:
 
 - Copia de respaldo de la evidencia.
 - Almacenar las evidencias en dispositivos cuya seguridad haya sido demostrada y que permita detectar intentos de acceso no autorizados.
