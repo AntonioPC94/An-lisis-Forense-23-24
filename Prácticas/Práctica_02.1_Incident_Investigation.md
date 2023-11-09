@@ -10,8 +10,7 @@ Trabajo realizado por: Antonio Peñalver Caro
 2. [Descripción del Incidente](#descripción-del-incidente)
 3. [Proceso de Recolección de Evidencias por Orden de Volatilidad](#proceso-de-recolección-de-evidencias-por-orden-de-volatilidad)
 4. [Proceso de Almacenamiento de Evidencias](#proceso-de-almacenamiento-de-evidencias)
-5. [Cadena de Custodia](#cadena-de-custodia)
-6. [Metodología Seguida](#metodología-seguida)
+5. [Metodología Seguida](#metodología-seguida)
 
 # Introducción
 
@@ -118,6 +117,17 @@ A continuación, mostraremos al programa funcionando y mostrando como resultado 
 
 # Proceso de Almacenamiento de Evidencias
 
-# Cadena de Custodia
+En este proceso, también nos regiremos por nuestra propia metodología. Según el apartado 3 de esta, el prceso de almacenamiento es el siguiente:
+
+- Copia de respaldo de la evidencia.
+- Almacenar las evidencias en dispositivos cuya seguridad haya sido demostrada y que permita detectar intentos de acceso no autorizados.
+- Cadena de custodia
+
+## Copia de respaldo
+
+(**CONTINUAR**)
+
+## Almacenamiento de las evidencias
+## Cadena de custodia
 
 # Metodología Seguida
