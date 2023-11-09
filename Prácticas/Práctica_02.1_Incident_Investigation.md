@@ -112,7 +112,7 @@ A continuación, mostraremos al programa funcionando y mostrando como resultado 
 
 ![img14](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img14.png)
 
-### Visualización de hashes
+### Visualizando los hashes
 
 ![img15](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img15.png)
 
