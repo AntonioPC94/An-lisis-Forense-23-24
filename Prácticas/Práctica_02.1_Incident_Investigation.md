@@ -43,7 +43,7 @@ En este proceso, nos regiremos por nuestra propia metodología: APINA G4. Según
 - Configuración física y topología de la red.
 - Documentos.
 
-Pero en este caso, vamos a realizar adquisiciones de la memoria RAM del sistema y del disco físico del equipo.
+En este caso, vamos a realizar adquisiciones de la memoria RAM del sistema y del disco físico del equipo.
 
 ## Adquisición de Memoria
 
