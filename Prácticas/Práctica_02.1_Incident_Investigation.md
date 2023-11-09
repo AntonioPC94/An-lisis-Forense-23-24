@@ -15,7 +15,7 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 # Introducción
 
-En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en una empresa particular. Desde ¿Ciberseguros? G4. nos encargaremos de averiguar lo que ha ocurrido siguiendo nuestra metodología, empezando por la adquisición de las distintas evidencias y terminando por el almacenamiento y el análisis de las mismas.
+En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en una empresa particular. Desde ¿Ciberseguros? G4. nos encargaremos de averiguar lo que ha ocurrido siguiendo nuestra propia metodología, empezando por la adquisición de las distintas evidencias y terminando por el almacenamiento y el análisis de las mismas.
 
 # Descripción del Incidente
 
