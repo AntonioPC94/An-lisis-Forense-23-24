@@ -29,7 +29,7 @@ En el "Escritorio" del equipo se podían visualizar 3 cosas:
 
 ![img02]()
 
-A continuación, sacamos nuestras herramientas forenses para poder comenzar con el proceso de recolección de evidencias.
+A continuación, sacamos nuestras herramientas forenses y comenzamos con el proceso de recolección de evidencias.
 
 # Proceso de Recolección de Evidencias
 
