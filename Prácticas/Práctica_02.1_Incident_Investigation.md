@@ -130,4 +130,14 @@ En este proceso, también nos regiremos por nuestra propia metodología. Según 
 ## Almacenamiento de las evidencias
 ## Cadena de custodia
 
+| Entidad administrativa | Numero de caso | Lugar del incidente | Fecha y hora del incidente | Fotografía(s) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+| Identificación de la persona que entrega | Firma | Nombre de la persona que recibe | Firma | Propósito de la transferencia | Método de transferencia | Fecha de transferencia |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
 # Metodología Seguida
