@@ -19,7 +19,7 @@ En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en una
 
 # Descripción del Incidente
 
-Al llegar al lugar del incidente, nos encontramos con un equipo encendido. Lo primero que hicimos, fue desconectar el cable de red de la máquina para evitar que el problema se siguiese propagando por los distintos equipos de la red. A continuación, fotografiamos la escena para poder realizar posteriormente una reconstrucción del caso y por último, nos sentamos frente al equipo para ver qué es lo que ha ocurrido.
+Al llegar al lugar del incidente, nos encontramos con un equipo encendido. Lo primero que hicimos, fue desconectar el cable de red de la máquina para evitar que el problema se siguiese propagando por los distintos equipos de la red. Acto seguido, despejamos la zona de personas ajenas al caso y fotografiamos la escena para luego poder realizar una reconstrucción del caso. Y por último, nos sentamos frente al equipo para ver qué es lo que había ocurrido.
 
 En el "Escritorio" del equipo, salía un mensaje que nos pedía reiniciar para poder aplicar unos cambios en el equipo. Evidentemente, clickamos sobre "Reiniciar más tarde" para no perder los datos volátiles de la máquina.
 
