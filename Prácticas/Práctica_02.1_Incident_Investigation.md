@@ -62,7 +62,8 @@ Por último, hashearemos la evidencia con HashMyFiles, lo cual nos servirá para
 ![img05](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img05.png)
 
 ## Triage
-Como en este caso nos interesa saber qué se hizo con la máquina antes, durante y después de la vulneración de la misma, utilizaremos LastActivityView para poder sacar datos como:
+
+En este proceso, nos interesa saber qué se hizo con la máquina antes, durante y después de la vulneración de la misma, por ello utilizaremos LastActivityView para poder sacar datos como:
 
 - Inicios de sesión
 - Instalación y ejecución de programas
@@ -81,9 +82,39 @@ Por último, hashearemos la evidencia con HashMyFiles, lo cual nos servirá para
 
 Para esta parte del proceso, escogeremos la herramienta FTK Imager, la cual nos servirá para recopilar toda la información contenida en el disco de la máquina vulnerada.
 
-Lo primero que tendremos que indicarle al programa, (**CONTINUAR**)
+Lo primero que tendremos que indicarle al programa, es el tipo de fuente de evidencia del cual vamos a crear la imagen. En nuestro caso, nuestra fuente es un dispositivo físico.
 
+![img08](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img08.png)
 
+A continuación, elegiremos el dispositivo físico del cual vamos a crear la imagen. En nuestro caso, la vamos a crear del disco duro de la máquina vulnerada.
+
+![img09](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img09.png)
+
+Ahora tendremos que elegir el tipo de imagen que queremos que se nos genere. En nuestro caso, vamos a generar una imagen completa del disco, bit a bit, por lo que elegiremos la primera opción.
+
+![img10](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img10.png)
+
+Ahora elegimos un destino y un nombre para nuestra evidencia y clickamos en "Finish".
+
+![img11](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img11.png)
+
+Por último, haremos check en las tres opciones que nos aparecen y clickaremos en "Start".
+
+![img12](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img12.png)
+
+A continuación, mostraremos al programa funcionando y mostrando como resultado los hashes de la imagen obtenida.
+
+### Creando
+
+![img13](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img13.png)
+
+### Verificando
+
+![img14](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img14.png)
+
+### Visualización de hashes
+
+![img15](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img15.png)
 
 # Proceso de Almacenamiento de Evidencias
 
