@@ -28,7 +28,7 @@ En el "Escritorio" del equipo se podían visualizar 3 cosas:
 
 ![img02](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img02.png)
 
-A continuación, sacamos nuestras herramientas forenses y comenzamos con el proceso de recolección de evidencias.
+A continuación, sacaremos nuestras herramientas forenses y comenzaremos con el proceso de recolección de evidencias.
 
 # Proceso de Recolección de Evidencias por Orden de Volatilidad
 
