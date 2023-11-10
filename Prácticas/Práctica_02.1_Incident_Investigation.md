@@ -167,12 +167,10 @@ Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el m
 | Ubicación de las adquisiciones     |            Disco duro WD Blue SN570 1TB            |
 | Fecha de las adquisiciones         |            08 de Noviembre de 2023                 |
 | Método de adquisición              | Herramientas ejecutadas en live desde un USB.      |
-
-(**CONTINUAR**)
-
-
-|**Método de traslado**|Terrestre, Aéreo, Marítimo|**Se requieren Condiciones especiales para su traslado**|SI/NO|**Recomendaciones**|Usar material envolvente para protegerlo, jaula de Faraday, indicar que sea frágil etc|||
-|**Responsable de la adquisición**|Puesto de trabajo (investigador ..)|**Nombre y apellidos**||||||
+| Método de traslado                 | Terrestre |
+| ¿Se requieren condiciones especiales para su traslado? | No |
+| Recomendaciones | No extraer el disco duro que contiene las evidencias hasta que no se encuentre en el laboratorio forense |
+| Responsable de las adquisiciones | Antonio Peñalver Caro |
 
 ### Traspaso de Cadena de Custodia
 
