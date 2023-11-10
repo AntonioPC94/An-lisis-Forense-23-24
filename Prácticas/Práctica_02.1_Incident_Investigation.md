@@ -14,7 +14,7 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 # Introducción
 
-En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en una empresa particular. Desde ¿Ciberseguros? G4. nos encargaremos de averiguar lo que ha ocurrido siguiendo nuestra propia metodología, empezando por la adquisición de las distintas evidencias y terminando por el almacenamiento y el análisis de las mismas.
+En este proyecto, nos encontramos ante un incidente de seguridad ocurrido en el departamento de IT de nuestra empresa. Desde el departamento de CSIRT, nos encargaremos de averiguar lo que ha ocurrido siguiendo nuestra propia metodología, empezando por la adquisición de las distintas evidencias y terminando por el almacenamiento y el análisis de las mismas.
 
 # Descripción del Incidente
 
@@ -32,7 +32,7 @@ A continuación, sacamos nuestras herramientas forenses y comenzamos con el proc
 
 # Proceso de Recolección de Evidencias por Orden de Volatilidad
 
-En este proceso, nos regiremos por nuestra propia metodología: APINA G4. Según el apartado 2.1 de esta, el orden de volatilidad que debemos de seguir a la hora de realizar adquisiciones en dispostivos informáticos, es el siguiente:
+En este proceso, nos regiremos por nuestra propia metodología: APINAG4. Según el apartado 2.1 de esta, el orden de volatilidad que debemos de seguir a la hora de realizar adquisiciones en dispostivos informáticos, es el siguiente:
 
 - Registros y contenido de la caché.
 - Tabla de enrutamiento, caché ARP, tabla de procesos, estadísticas del kernel y memoria.
@@ -141,15 +141,13 @@ Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el m
 ## Cadena de Custodia
 
 | Entidad administrativa | Numero de caso | Lugar del incidente | Fecha y hora del incidente | Fotografía(s) |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|
+| ¿Ciberseguros? G4.  | 01 | Departamento de IT | 06 de Noviembre de 2023 a las 08:00 GMT+1 | ![img16](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/3c9f94db203389c847c26cc5b05b813079c0948e/Pr%C3%A1cticas/img/img16.jpeg)  |
 
 | Identificación de la persona que entrega | Firma | Nombre de la persona que recibe | Firma | Propósito de la transferencia | Método de transferencia | Fecha de transferencia |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Antonio Peñalver Caro | ![Firma](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/c67c7f808b490d15925920471d573e24e0b397fa/Pr%C3%A1cticas/img/Firma.png)  | Manuel Rivas Sández | ![FirmaM](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/c67c7f808b490d15925920471d573e24e0b397fa/Pr%C3%A1cticas/img/FirmaM.png)  | Análisis de las evidencias en laboratorio forense  | Subida de evidencias a la nube (OneDrive) | 10 de Noviembre de 2023 |
 
 # Metodología Seguida
 
-La metodología seguida en esta fase del proyecto es la APINAG4, desarrollada por la empresa de ciberseguridad ¿Ciberseguros? G4. Su objetivo es proporcionar a los investigadores una guía para la recolección, almacenamiento y análisis de las diversas evidencias que pueden obtenerse de un dispositivo informático en una escena forense.
+La metodología seguida en esta fase del proyecto es la APINAG4, desarrollada por la propia empresa que ha sufrido el incidente. Su objetivo es proporcionar a los investigadores una guía para la recolección, almacenamiento y análisis de las diversas evidencias que pueden obtenerse de un dispositivo informático en una escena forense.
