@@ -48,7 +48,7 @@ En este caso, vamos a realizar adquisiciones de la memoria RAM del sistema y del
 
 Para esta parte del proceso, escogeremos la herramienta Magnet Forensics, la cual es sencilla de utilizar y cumple con su cometido.
 
-Lo único que le tenemos que indicar a esta herramienta, es la ruta donde queremos almacenar la captura de RAM. Una vez le hayamos indicado la ruta al programa, le daremos a "Start" para que comience con la adquisición.
+Lo único que le tenemos que indicar a esta herramienta, es la ruta donde queremos almacenar la captura de RAM. Una vez le hayamos indicado la ruta al programa, le daremos a "Start" para que este comience con la adquisición.
 
 ![img03](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2decc698c6aa870ebe838c803bd180f1251e8647/Pr%C3%A1cticas/img/img03.png)
 
