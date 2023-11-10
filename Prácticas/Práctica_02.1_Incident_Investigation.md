@@ -158,7 +158,7 @@ Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el m
 | :-:         | :-                   | :-      |
 | RAM         | Magnet Forensics     | V 1.2.0  |
 | Triage      | LastActivityView     | V 1.36   |
-| Disco Duro  | FTK Imager           |         |
+| Disco Duro  | FTK Imager           | V 3.1.1.8|
 
 |         Adquisiciones              |                    Información                     |
 |:----------------------------------:|:--------------------------------------------------:|
