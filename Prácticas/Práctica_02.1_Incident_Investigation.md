@@ -140,9 +140,41 @@ Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el m
 
 ## Cadena de Custodia
 
+### Identificación del Caso
+
 | Entidad administrativa | Numero de caso | Lugar del incidente | Fecha y hora del incidente | Fotografía(s) |
 |:---:|:---:|:---:|:---:|:---:|
 | ¿Ciberseguros? G4.  | 01 | Departamento de IT | 06 de Noviembre de 2023 a las 08:00 GMT+1 | ![img16](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/3c9f94db203389c847c26cc5b05b813079c0948e/Pr%C3%A1cticas/img/img16.jpeg)  |
+
+### Integridad de las Evidencias
+
+|      Archivo       |      MD5 (Hash original)      |      MD5 (Hash verificado)      |      SHA1 (Hash original)      |      SHA1 (Hash verificado)      |      Verificado      |
+|:------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:--------------------:|
+| Evidencia Memoria  | 25bd6c29839cf490c63ee4acdf84d38c |       No verificado       | f976e8df7e87bc2e2259bf5961b30750eff34ec4 |      No verificado      |         No         |
+| Evidencia Triage   | ce190ec572528c9f19ae47a26aff5d00 |       No verificado       | 6002f665cbdab2dd0756defd17d913b4f1d50 |      No verificado      |         No         |
+| Evidencia Disco    | 9efa101c907da0bc8de1021d3905bb1e | 9efa101c907da0bc8de1021d3905bb1e | 38b92851d3c8fb3d1be72d4ab21a72b0c87f2f64 | 38b92851d3c8fb3d1be72d | Sí |
+
+### Acta de Adquisición
+
+| Adquisición | Herramienta Usada    | Versión |
+| :-:         | :-                   | :-      |
+| RAM         | Magnet Forensics     | V 1.2.0  |
+| Triage      | LastActivityView     | V 1.36   |
+| Disco Duro  | FTK Imager           |         |
+
+|         Adquisiciones              |                    Información                     |
+|:----------------------------------:|:--------------------------------------------------:|
+| Ubicación de las adquisiciones     |            Disco duro WD Blue SN570 1TB            |
+| Fecha de las adquisiciones         |            08 de Noviembre de 2023                 |
+| Método de adquisición              | Herramientas ejecutadas en live desde un USB.      |
+
+(**CONTINUAR**)
+
+
+|**Método de traslado**|Terrestre, Aéreo, Marítimo|**Se requieren Condiciones especiales para su traslado**|SI/NO|**Recomendaciones**|Usar material envolvente para protegerlo, jaula de Faraday, indicar que sea frágil etc|||
+|**Responsable de la adquisición**|Puesto de trabajo (investigador ..)|**Nombre y apellidos**||||||
+
+### Traspaso de Cadena de Custodia
 
 | Identificación de la persona que entrega | Firma | Nombre de la persona que recibe | Firma | Propósito de la transferencia | Método de transferencia | Fecha de transferencia |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
