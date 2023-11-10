@@ -99,7 +99,7 @@ Por último, haremos check en las tres opciones que nos aparecen y clickaremos e
 
 ![img12](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img12.png)
 
-A continuación, mostraremos al programa funcionando y mostrando como resultado los hashes de la imagen obtenida.
+A continuación, mostraremos el programa funcionando y mostrando como resultado los hashes de la imagen obtenida.
 
 ### Creando
 
