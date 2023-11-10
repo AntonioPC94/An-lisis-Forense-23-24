@@ -150,7 +150,7 @@ Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el m
 |:------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:--------------------:|
 | Evidencia Memoria  | 25bd6c29839cf490c63ee4acdf84d38c |       No verificado       | f976e8df7e87bc2e2259bf5961b30750eff34ec4 |      No verificado      |         No         |
 | Evidencia Triage   | ce190ec572528c9f19ae47a26aff5d00 |       No verificado       | 6002f665cbdab2dd0756defd17d913b4f1d50 |      No verificado      |         No         |
-| Evidencia Disco    | 9efa101c907da0bc8de1021d3905bb1e | 9efa101c907da0bc8de1021d3905bb1e | 38b92851d3c8fb3d1be72d4ab21a72b0c87f2f64 | 38b92851d3c8fb3d1be72d | Sí |
+| Evidencia Disco    | 9efa101c907da0bc8de1021d3905bb1e | 9efa101c907da0bc8de1021d3905bb1e | 38b92851d3c8fb3d1be72d4ab21a72b0c87f2f64 | 38b92851d3c8fb3d1be72d4ab21a72b0c87f2f64 | Sí |
 
 ### Acta de Adquisición
 
