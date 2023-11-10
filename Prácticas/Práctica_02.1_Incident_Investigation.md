@@ -167,7 +167,7 @@ Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el m
 | Método de adquisición              | Herramientas ejecutadas en live desde un USB.      |
 | Método de traslado                 | Terrestre |
 | ¿Se requieren condiciones especiales para su traslado? | No |
-| Recomendaciones | No extraer el disco duro que contiene las evidencias hasta que no se encuentre en el laboratorio forense |
+| Recomendaciones | No extraer el disco duro que contiene las evidencias de su lugar de almacenamiento hasta que no se encuentre en el laboratorio forense. |
 | Responsable de las adquisiciones | Antonio Peñalver Caro |
 
 ### Traspaso de Cadena de Custodia
