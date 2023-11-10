@@ -132,7 +132,7 @@ A la hora de realizar la copia de respaldo de las distintas evidencias obtenidas
 
 ## Almacenamiento de las evidencias
 
-Para el almacenamiento de las evidencias y de las copias de las mismas, utilizaremos un par de discos de 1TB. En el primer disco almacenenaremos las evidencias que sacamos directamente del equipo vulnerado y en el segundo, las copias de las mismas.
+Para el almacenamiento de las evidencias y de las copias de las mismas, utilizaremos un par de discos de 1TB. En el primer disco almacenaremos las evidencias que sacamos directamente del equipo vulnerado y en el segundo, las copias de las mismas.
 
 Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el momento de analizar las evidencias o haya que presentarlas en un juicio.
 
