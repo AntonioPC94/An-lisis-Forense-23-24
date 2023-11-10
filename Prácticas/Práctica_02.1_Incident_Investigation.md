@@ -81,7 +81,7 @@ Por último, hashearemos la evidencia con HashMyFiles, lo cual nos servirá para
 
 Para esta parte del proceso, escogeremos la herramienta FTK Imager, la cual nos servirá para recopilar toda la información contenida en el disco de la máquina vulnerada.
 
-Lo primero que tendremos que indicarle al programa, es el tipo de fuente de evidencia del cual vamos a crear la imagen. En nuestro caso, nuestra fuente es un dispositivo físico.
+Lo primero que tendremos que indicarle al programa, es el tipo de fuente de evidencia del cual vamos a crear la imagen. En nuestro caso, nuestro tipo de fuente, es un dispositivo físico.
 
 ![img08](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/12183b247d4d84e1c009ae9b3b17a8162389a246/Pr%C3%A1cticas/img/img08.png)
 
