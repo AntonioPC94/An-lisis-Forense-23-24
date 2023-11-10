@@ -42,8 +42,6 @@ En este proceso, nos regiremos por nuestra propia metodología: APINAG4. Según 
 - Configuración física y topología de la red.
 - Documentos.
 
-En este caso, vamos a realizar adquisiciones de la memoria RAM del sistema y del disco físico del equipo.
-
 ## Adquisición de Memoria
 
 Para esta parte del proceso, escogeremos la herramienta Magnet Forensics, la cual es sencilla de utilizar y cumple con su cometido.
