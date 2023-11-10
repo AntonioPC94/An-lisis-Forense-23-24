@@ -125,10 +125,20 @@ En este proceso, también nos regiremos por nuestra propia metodología. Según 
 
 ## Copia de respaldo
 
-(**CONTINUAR**)
+A la hora de realizar la copia de respaldo de las distintas evidencias obtenidas, debemos de tener en cuenta lo siguiente:
+
+- Asegurarnos de que la copia sea bit a bit.
+- Usar algoritmos de hash, como SHA1 o MD5, para verificar la integridad de la segunda copia. Si los valores hash de ambas copias coinciden, entonces la integridad de la segunda copia está asegurada.
+- Almacenar la segunda copia en un lugar seguro, tal y como haremos con la primera.
+- Mantener un registro detallado de la cadena de custodia de las evidencias.
 
 ## Almacenamiento de las evidencias
-## Cadena de custodia
+
+Para el almacenamiento de las evidencias y de las copias de las mismas, utilizaremos un par de discos de 1TB. En el primer disco almacenenaremos las evidencias que sacamos directamente del equipo vulnerado y en el segundo, las copias de las mismas.
+
+Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el momento de analizar las evidencias o haya que presentarlas en un juicio.
+
+## Cadena de Custodia
 
 | Entidad administrativa | Numero de caso | Lugar del incidente | Fecha y hora del incidente | Fotografía(s) |
 | --- | --- | --- | --- | --- |
