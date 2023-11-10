@@ -151,3 +151,5 @@ Ambos discos se almacenarán en una caja fuerte bajo llave hasta que llegue el m
 |  |  |  |  |  |  |  |
 
 # Metodología Seguida
+
+La metodología seguida en esta fase del proyecto es la APINAG4, desarrollada por la empresa de ciberseguridad ¿Ciberseguros? G4. Su objetivo es proporcionar a los investigadores una guía para la recolección, almacenamiento y análisis de las diversas evidencias que pueden obtenerse de un dispositivo informático en una escena forense.
