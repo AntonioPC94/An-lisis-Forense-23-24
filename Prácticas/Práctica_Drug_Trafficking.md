@@ -31,6 +31,7 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 - **Sistema y versión del sistema operativo instalado.**
   
   Microsoft Windows XP
+  
   Versión: 5.1     
 
 - **Nombre del usuario y organización registrados.**
