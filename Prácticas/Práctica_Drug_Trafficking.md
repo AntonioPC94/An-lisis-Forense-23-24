@@ -61,15 +61,15 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 
 - **Fecha y hora del último "logon" del usuario:**
 
-| Nombre de Usuari@ | Administrador | John | Ian | Jessy |
-|:---------:|:---------:|:---------:|:---------:|:---------:|
-| **Último "Logon"** | Never  |  2013-03-28 03:10:49Z | 2013-04-25 02:06:52Z | 2013-04-23 02:18:56Z |
+| Nombre de Usuari@ | John | Ian | Jessy |
+|:---------:|:---------:|:---------:|:---------:|
+| **Último "Logon"** | 2013-03-28 03:10:49Z | 2013-04-25 02:06:52Z | 2013-04-23 02:18:56Z |
 
 - **Fecha y hora del último cambio de contraseña:**
 
-| Nombre de Usuari@ | Administrador | John | Ian | Jessy |
-|:---------:|:---------:|:---------:|:---------:|:---------:|
-| **Último Cambio Contraseña** | 2013-04-18 08:09:21Z | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z |
+| Nombre de Usuari@ | John | Ian | Jessy |
+|:---------:|:---------:|:---------:|:---------:|
+| **Último Cambio Contraseña** | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z |
 
 - **¿Existe alguna contradicción entre las fechas halladas en los apartados anteriores y el presente apartado?. En caso afirmativo, ¿a qué crees que puede ser debido?:**
 
