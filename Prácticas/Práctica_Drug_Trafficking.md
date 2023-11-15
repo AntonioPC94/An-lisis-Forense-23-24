@@ -1,6 +1,6 @@
 # Drug Trafficking
 
-![img17](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/e8631533d9bf7b18c7c51f863aafdf4f799b1116/Pr%C3%A1cticas/img/img17.png)
+![img17](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5feaf4bfe47bfea95b4d214f7b784acc4b275e8b/Pr%C3%A1cticas/img/img17.png)
 
 Trabajo realizado por: Antonio Peñalver Caro
 
@@ -60,11 +60,15 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 
 - **Fecha y hora del último "logon" del usuario:**
 
-
+| Nombre de Usuari@ | Administrador | John | Ian | Jessy |
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+| **Último "Logon"** | Never  |  2013-03-28 03:10:49Z | 2013-04-25 02:06:52Z | 2013-04-23 02:18:56Z |
 
 - **Fecha y hora del último cambio de contraseña:**
 
-
+| Nombre de Usuari@ | Administrador | John | Ian | Jessy |
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+| **Último Cambio Contraseña** | 2013-04-18 08:09:21Z | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z |
 
 - **¿Existe alguna contradicción entre las fechas halladas en los apartados anteriores y el presente apartado?. En caso afirmativo, ¿a qué crees que puede ser debido?:**
 
