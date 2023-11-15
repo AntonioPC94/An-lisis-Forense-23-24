@@ -9,7 +9,8 @@ Trabajo realizado por: Antonio Peñalver Caro
 1. **Describe el entorno de trabajo que has escogido para realizar la actividad:**
 
 Para llevar a cabo el análisis de las evidencias proporcionadas en esta actividad, utilizaré un equipo con las siguientes características:
-- Marca & Modelo: Lenovo Ideapad 330
+- Marca: Lenovo
+- Modelo: Ideapad 330
 - Procesador: Intel Core I3-7020U
 - Memoria: 2 Modules 4GB PC4-21300 DDR4
 - Sistema operativo: Windows 10 Pro (64 bits)
