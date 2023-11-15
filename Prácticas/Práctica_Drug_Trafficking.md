@@ -71,7 +71,12 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 |:---------:|:---------:|:---------:|:---------:|
 | **Último Cambio Contraseña** | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z |
 
-- **¿Existe alguna contradicción entre las fechas halladas en los apartados anteriores y el presente apartado?. En caso afirmativo, ¿a qué crees que puede ser debido?:**
+- **¿Existe alguna contradicción entre las fechas halladas en los apartados anteriores y en el presente apartado?. En caso afirmativo, ¿a qué crees que puede ser debido?:**
+
+Si, ya que la fecha de instalación del sistema, es posterior a la del último "logon" del usuario Jhon. Es posible que dicho usuario haya intentado modificar el registro o reinstalar el sistema sin haber formateado del todo el disco duro del equipo.
+
+![img18](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/014db12b7a87908d25d23884752d4917fb6c81c3/Pr%C3%A1cticas/img/img18.png)
+
 
 
 
