@@ -40,7 +40,7 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 
 - **"Product ID" asociado al sistema.**
 
-  Product ID: 76487-341-1072684-22504
+  76487-341-1072684-22504
 
 - **"Service Pack" instalado.**
      
