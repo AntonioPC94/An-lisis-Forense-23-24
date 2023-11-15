@@ -37,6 +37,7 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 - **Nombre del usuario y organización registrados.**
 
   Usuario Administrador: Jhon
+  
   Organización registrada: home
 
 - **"Product ID" asociado al sistema.**
