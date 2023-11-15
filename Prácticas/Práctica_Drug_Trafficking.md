@@ -24,36 +24,49 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 - (**CONTINUAR**)
 
 2. **Describe, como mínimo, la información siguiente, relacionada con el sistema operativo instalado en el sistema informático que estás analizando:**
-- **¿Qué tamaño tiene la partición a analizar?**
+- **¿Qué tamaño tiene la partición a analizar?:**
    
   Size (Bytes)	2623832064
    
-- **Sistema y versión del sistema operativo instalado.**
+- **Sistema y versión del sistema operativo instalado:**
   
-  Microsoft Windows XP
+  Sistema: Microsoft Windows XP
   
   Versión: 5.1     
 
-- **Nombre del usuario y organización registrados.**
+- **Nombre del usuario y organización registrados:**
 
   Usuario Administrador: Jhon
   
   Organización registrada: home
 
-- **"Product ID" asociado al sistema.**
+- **"Product ID" asociado al sistema:**
 
   76487-341-1072684-22504
 
-- **"Service Pack" instalado.**
+- **"Service Pack" instalado:**
      
   Service Pack 3
      
-- **Fecha y hora de instalación del sistema operativo.**
+- **Fecha y hora de instalación del sistema operativo:**
   
   18/04/2013 15:17:02
 
-- **Fecha y hora del último "shutdown".**
+- **Fecha y hora del último "shutdown":**
 
   Mi., 19 Junio 2013 02:11:46 UTC
    
 3) **Determina qué usuarios hay definidos en el sistema (sin contar con los usuarios definidos por defecto). Para cada uno de ellos encuentra, como mínimo, la información siguiente:**
+
+- **Fecha y hora del último "logon" del usuario:**
+
+
+
+- **Fecha y hora del último cambio de contraseña:**
+
+
+
+- **¿Existe alguna contradicción entre las fechas halladas en los apartados anteriores y el presente apartado?. En caso afirmativo, ¿a qué crees que puede ser debido?:**
+
+
+
