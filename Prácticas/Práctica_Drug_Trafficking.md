@@ -71,7 +71,7 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 |:---------:|:---------:|:---------:|:---------:|
 | **Último Cambio Contraseña** | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z |
 
-- **¿Existe alguna contradicción entre las fechas halladas en los apartados anteriores y en el presente apartado?. En caso afirmativo, ¿a qué crees que puede ser debido?:**
+- **¿Existe alguna contradicción entre las fechas halladas en este apartado y el anterior?. En caso afirmativo, ¿a qué crees que puede ser debido?:**
 
 Si, ya que la fecha de instalación del sistema, es posterior a la del último "logon" del usuario Jhon. Es posible que dicho usuario haya intentado modificar el registro o reinstalar el sistema sin haber formateado del todo el disco duro del equipo.
 
