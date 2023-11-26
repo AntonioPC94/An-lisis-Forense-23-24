@@ -1,6 +1,8 @@
 # Drug Trafficking
 
-![img17](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5feaf4bfe47bfea95b4d214f7b784acc4b275e8b/Pr%C3%A1cticas/img/img17.png)
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5feaf4bfe47bfea95b4d214f7b784acc4b275e8b/Pr%C3%A1cticas/img/img17.png" alt="img17"/>
+</p>
 
 Trabajo realizado por: Antonio Peñalver Caro
 
@@ -28,12 +30,20 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 - **¿Qué tamaño tiene la partición a analizar?:**
    
   Size (Bytes)	2623832064
+
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img19.png" alt="img19"/>
+</p>
    
 - **Sistema y versión del sistema operativo instalado:**
   
   Sistema: Microsoft Windows XP
   
-  Versión: 5.1     
+  Versión: 5.1
+
+ <p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img20.png" alt="img20"/>
+</p>
 
 - **Nombre del usuario y organización registrados:**
 
@@ -41,22 +51,50 @@ Las herramientas que utilizaremos para dicho análisis, serán:
   
   Organización registrada: home
 
+  <p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img21.png" alt="img21"/>
+</p>
+
 - **"Product ID" asociado al sistema:**
 
   76487-341-1072684-22504
 
+  <p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img22.png" alt="img22"/>
+</p>
+
 - **"Service Pack" instalado:**
      
   Service Pack 3
+
+  <p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img23.png" alt="img23"/>
+</p>
      
 - **Fecha y hora de instalación del sistema operativo:**
   
   18/04/2013 15:17:02
 
+ <p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img24.png" alt="img24"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img25.png" alt="img25"/>
+</p>
+
 - **Fecha y hora del último "shutdown":**
 
   Mi., 19 Junio 2013 02:11:46 UTC
-   
+
+  <p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img26.png" alt="img26"/>
+</p>
+  
+  <p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img27.png" alt="img27"/>
+</p>
+  
 3) **Determina qué usuarios hay definidos en el sistema (sin contar con los usuarios definidos por defecto). Para cada uno de ellos encuentra, como mínimo, la información siguiente:**
 
 - **Fecha y hora del último "logon" del usuario:**
@@ -71,11 +109,25 @@ Las herramientas que utilizaremos para dicho análisis, serán:
 |:---------:|:---------:|:---------:|:---------:|
 | **Último Cambio Contraseña** | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z | 2013-04-18 15:18:44Z |
 
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img28.png" alt="img28"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img29.png" alt="img29"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5c02e601254eeb007980162f6712c87aca92acd5/Pr%C3%A1cticas/img/img30.png" alt="img30"/>
+</p>
+
 - **¿Existe alguna contradicción entre las fechas halladas en este apartado y el anterior?. En caso afirmativo, ¿a qué crees que puede ser debido?:**
 
 Si, ya que la fecha de instalación del sistema, es posterior a la del último "logon" del usuario Jhon. Es posible que dicho usuario haya intentado modificar el registro o reinstalar el sistema sin haber formateado del todo el disco duro del equipo.
 
-![img18](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/014db12b7a87908d25d23884752d4917fb6c81c3/Pr%C3%A1cticas/img/img18.png)
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/014db12b7a87908d25d23884752d4917fb6c81c3/Pr%C3%A1cticas/img/img18.png" alt="img18"/>
+</p>
 
 
 
