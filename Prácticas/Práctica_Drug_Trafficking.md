@@ -134,6 +134,15 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 4) **Localiza, extrae y relaciona los siguientes hallazgos, asociándose, si es posible, al usuario al cual pertenecen:**
 
 - Localización y extracción de archivos eliminados.
+  
+  En los "Deleted Files" del sistema, encontré los siguientes ficheros relacionados con el caso:
+  
+  - Imágenes nombradas como: "Almacen mataro 2.jpg", "Almacen mataro 3.jpg" y "Almacen mataro.jpg.
+  - Imágenes nombradas como: "Almacen terrassa 3.jpg", "Almacen terrassa 4.jpg" y "Almacen terrassa.jpg".
+  - Imagen nombrada como: "coca.jpg".
+  - Imágenes nombradas como: "fabricando coca 2.jpg", "fabricando coca 3.jpg", "fabricando coca 4.jpg" y "fabricando coca.jpg"
+  - Imagen nombrada como: "fiesta Jorge.jpg"
+  
 - Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.
 - ¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?
 - Hojas de cálculo.
