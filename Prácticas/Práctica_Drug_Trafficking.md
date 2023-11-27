@@ -131,6 +131,19 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/014db12b7a87908d25d23884752d4917fb6c81c3/Pr%C3%A1cticas/img/img18.png" alt="img18"/>
 </p>
 
+4) **Localiza, extrae y relaciona los siguientes hallazgos, asociándose, si es posible, al usuario al cual pertenecen:**
+
+- Localización y extracción de archivos eliminados.
+- Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.
+- ¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?
+- Hojas de cálculo.
+- Ficheros comprimidos.
+- ¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?
+- Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.
+
+5) ¿Has podido localizar alguna otra evidencia relacionada con algún otro tipo delictivo?. En caso afirmativo, describe y extrae los hallazgos localizados, y determina y lleva a cabo aquellas acciones que realizarías en calidad de perito (puedes utilizar, coomo guión, los apartados de la pregunta 4).
+
+
 
 
 
