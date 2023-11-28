@@ -157,7 +157,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/014db12b7a87908d25d23884752d4917fb6c81c3/Pr%C3%A1cticas/img/img18.png" alt="img18"/>
 </p>
 
-# Caso 1: Tráfico de drogas
+# Caso 1: Tráfico de Drogas
 
 4) **Localiza, extrae y relaciona los siguientes hallazgos, asociándose, si es posible, al usuario al cual pertenecen:**
 
