@@ -169,11 +169,11 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
   - Imágenes nombradas como: "Almacen mataro 2.jpg", "Almacen mataro 3.jpg", "Almacen mataro.jpg, "Almacen terrassa 3.jpg", "Almacen terrassa 4.jpg", "Almacen terrassa.jpg",     "coca.jpg", "fabricando coca 2.jpg", "fabricando coca 3.jpg", "fabricando coca 4.jpg", "fabricando coca.jpg", "fiesta Jorge.jpg", "kasius 2.jpg", "kasius.jpg", "Maria en     negocio Jorge.jpg", "mercancia 2.jpg", "Mercancia terrassa.jpg", "mercancia.jpg", y "pastillas.jpg".
 
-    En dichas imágenes, aparecen por ejemplo, varias personas consumiendo sustancias estupefacientes, un par de recetas que muestran el proceso de fabricación de la cocaína,     etcétera.
+  En dichas imágenes, aparecen por ejemplo, varias personas consumiendo sustancias estupefacientes, un par de recetas que muestran el proceso de fabricación de la cocaína,     etcétera.
 
-    **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Deleted Files" (Imágenes 1-19)**
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Deleted Files" (Imágenes 1-19)**
 
-    Nota: Las imágenes también las podemos encontrar en los "$OrphanFiles" y en los "$CarvedFiles" del sistema.
+  Nota: Las imágenes también las podemos encontrar en los "$OrphanFiles" y en los "$CarvedFiles" del sistema.
   
 - Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.
 
@@ -185,7 +185,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
     Este archivo contiene información sobre la taxonomía que tienen las plantas de coca.
 
-    **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imagen 20)**
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imagen 20)**
   
   Dentro del directorio "Documentos" de Jhon, encontré un subdirectorio llamado "mataro-store", el cual contenía las siguientes imágenes:
 
@@ -197,7 +197,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
     Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que he mostrado anteriormente.
 
-     **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imágenes 21-24)**
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imágenes 21-24)**
 
   ## Carpeta RECYCLER
 
@@ -213,13 +213,13 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
 
-    **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "RECYCLER" (Imágenes 25-28)**
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "RECYCLER" (Imágenes 25-28)**
 
 - ¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?
 
   Entre los metadatos de algunas de las imágenes anteriores, descubrí la marca y el modelo del teléfono móvil con el que sospechoso realizó las fotos. Realizando una pequeña   búsqueda en Google, podremos descubrir que se trata de un Samsung Galaxy S3 Mini.
 
-    **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Metadatos" (Imagen 29)**
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Metadatos" (Imagen 29)**
   
 - Hojas de cálculo.
 
@@ -235,23 +235,23 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
     Este archivo contiene las credenciales de acceso de Jhon a distintas plataformas de Internet. Por ejemplo, a su correo electrónico, a Ebay, etcétera.
 
-    **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Hojas de Cálculo" (Imágenes 30-31)**
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Hojas de Cálculo" (Imágenes 30-31)**
 
 - Ficheros comprimidos.
 
-    No he encontrado ficheros comprimidos relacionados con este caso.
+  No he encontrado ficheros comprimidos relacionados con este caso.
     
 - ¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?
 
-    Si, tal y como comenté anteriormente, encontré una hoja de cálculo protegida con contraseña (Contactes.xls).
+  Si, tal y como comenté anteriormente, encontré una hoja de cálculo protegida con contraseña (Contactes.xls).
   
 - Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.
 
-## Carpeta Cookies
+  ## Carpeta Cookies
 
   En la carpeta "Cookies", habían ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. Entre ellos:
 
-- 
+    - 
 
     
 
