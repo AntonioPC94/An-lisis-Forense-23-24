@@ -183,7 +183,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   - Archivo PDF nombrado como: "coca.pdf".
 
-    Este archivo contiene información sobre la taxonomía que tienen las plantas de coca.
+  Este archivo contiene información sobre la taxonomía que tienen las plantas de coca.
 
   **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imagen 20)**
   
@@ -191,11 +191,11 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   - Imágenes nombradas como: "20130404_102700.jpg", "20130404_102702.jpg" y "20130404_102715.jpg".
 
-    Estas imágenes muestran varias perspectivas de un mismo edificio, el cual parece ser su centro de operaciones.
+  Estas imágenes muestran varias perspectivas de un mismo edificio, el cual parece ser su centro de operaciones.
 
   - Imagen nombrada como: "store plane.jpg".
 
-    Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que he mostrado anteriormente.
+  Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que he mostrado en el apartado anterior.
 
   **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imágenes 21-24)**
 
@@ -205,15 +205,15 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   - Imágenes nombradas como: "20130329_140030.jpg", "20130329_140033.jpg" y "20130329_140035.jpg".
 
-    Estas imágenes muestran varias perspectivas de un mismo edificio, el cual parece ser otro centro de operaciones, aparte del que encontré anteriormente.
+  Estas imágenes muestran varias perspectivas de un mismo edificio, el cual parece ser otro centro de operaciones.
 
   - Imagen nombrada como: "store plane.gif".
 
-    Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que mostré anteriormente.
-
-  En "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
+  Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que mostré en el apartado anterior.
 
   **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "RECYCLER" (Imágenes 25-28)**
+
+  Nota: En "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
 
 - ¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?
 
@@ -227,13 +227,13 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   - Archivo Excel nombrado como: "Contactes.xls".
   
-    Este archivo no se puede abrir, ya que está protegido con una contraseña.
+  Este archivo no se puede abrir, ya que está protegido con una contraseña.
 
   En el directorio "Documentos" de Jhon, encontré la siguiente hoja de cálculo:
 
   - Archivo Excel nombrado como "contrasenyas.xls".
   
-    Este archivo contiene las credenciales de acceso de Jhon a distintas plataformas de Internet. Por ejemplo, a su correo electrónico, a Ebay, etcétera.
+  Este archivo contiene las credenciales de acceso de Jhon a distintas plataformas de Internet. Por ejemplo, a su correo electrónico, a Ebay, etcétera.
 
   **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Hojas de Cálculo" (Imágenes 30-31)**
 
