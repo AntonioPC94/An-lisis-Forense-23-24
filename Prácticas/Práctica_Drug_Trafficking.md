@@ -9,12 +9,12 @@ Trabajo realizado por: Antonio Peñalver Caro
 #
 
 # Índice
-1. [Especificaciones Equipo Perito](#especificaciones-equipo-perito)
+1. [Entorno de Trabajo](#entorno-de-trabajo)
 2. [Información General Equipo Decomisado](#información-general-equipo-decomisado)
 3. [Caso 1: Tráfico de Drogas](#caso-1-tráfico-de-drogas)
 4. [Caso 2: Pornografía](#caso-2-pornografía)
 
-# Especificaciones Equipo Perito
+# Entorno de Trabajo
 
 1. **Describe el entorno de trabajo que has escogido para realizar la actividad:**
 
@@ -171,9 +171,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
     En dichas imágenes, aparecen por ejemplo, varias personas consumiendo sustancias estupefacientes, un par de recetas que muestran el proceso de fabricación de la cocaína,     etcétera.
 
-  **MIRAR METADATOS Y PONER INFORMACIÓN AL RESPECTO**
-
-    **Véanse dichas imágenes en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Deleted Files" (Imágenes 1-20)**
+    **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Deleted Files" (Imágenes 1-20)**
 
     Nota: Las imágenes también las podemos encontrar en los "$OrphanFiles" del sistema.
   
@@ -181,25 +179,62 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   ## Usuario: Jhon
 
+  En el "Escritorio" de Jhon, encontré el siguiente documento:
+
+  - Archivo PDF nombrado como: "coca.pdf". Este archivo contiene información sobre la taxonomía que tienen las plantas de coca.
+
+    **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imagen 21)**
+  
+  Dentro del directorio "Documentos" de Jhon, encontré un subdirectorio llamado "mataro-store", el cual contenía las siguientes imágenes:
+
+  - Imágenes nombradas como: "20130404_102700.jpg", "20130404_102702.jpg" y "20130404_102715.jpg".
+
+    Las imágenes anteriores muestran varias perspectivas de un mismo edificio, el cual parece ser su centro de operaciones.
+
+  - Imagen nombrada como: "store plane.jpg".
+
+    La imagen anterior muestra el plano de un edificio, que posiblemente sea del edificio que he mostrado anteriormente.
+
+     **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imágenes 22-25)**
+
   ## Carpeta RECYCLER
 
-  En el directorio "RECYCLER", aparte de encontrar archivos fotográficos relacionados con el caso que estoy investigando, encontré también otros archivos          relacionados con otro caso, pero estos los analizaré más adelante.
+  En la carpeta "RECYCLER", había un subdirectorio llamado "Dc2", en el cuál encontré las siguientes imágenes:
 
   - Imágenes nombradas como: "20130329_140030.jpg", "20130329_140033.jpg" y "20130329_140035.jpg".
 
-    Las imágenes anteriores muestran varias perspectivas de un mismo edificio, el cual parece ser su centro de operaciones.
+    Las imágenes anteriores muestran varias perspectivas de un mismo edificio, el cual parece ser otro centro de operaciones, aparte del que encontré anteriormente.
 
   - Imagen nombrada como: "store plane.gif".
 
     La imagen anterior muestra el plano de un edificio, que posiblemente sea del edificio que mostré anteriormente.
 
+  En "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
+
+    **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imagen 26-29)**
+
+  
 ========================================================================================================================================================================================
 
 - ¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?
 - Hojas de cálculo.
+
+  En el "Escritorio" de Jhon, encontré la siguiente hoja de cálculo:
+
+  - Archivo Excel nombrado como: "Contactes.xls".
+  
+    Este archivo no se puede abrir, ya que está protegido con una contraseña.
+
+  En el directorio "Documentos" de Jhon, encontré la siguiente hoja de cálculo:
+
+  - Archivo Excel nombrado como "contrasenyas.xls".
+  
+    Este archivo contiene las credenciales de acceso de Jhon a distintas plataformas de Internet. Por ejemplo, a su correo electrónico, a Ebay, etcétera.
+
 - Ficheros comprimidos.
 - ¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?
 - Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.
+- Otros datos de interés.
 
 # Caso 2: Pornografía
 
