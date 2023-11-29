@@ -274,10 +274,22 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   ## Carpeta Temporary Internet Files
 
-  En la carpeta "Temporary Internet Files", había un directorio dentro del único subdirectorio que había, llamado "Content.IE5". En este había información sobre todos los      ficheros generados
+  En la carpeta "Temporary Internet Files", había un directorio dentro del único subdirectorio que había, llamado "Content.IE5". En este había información sobre algunas de     las búsquedas realizadas por Jhon en algún momento de su día a día.
 
-    
+  De entre todas esas búsquedas, conseguí sacar una serie de ficheros ".htm" que contenían la siguiente información:
+
+  - Búsquedas de información en distintos motores de búsqueda sobre drogas.
+  - Noticias jurídicas sobre el delito de tráfico de drogas y el principio de proporcionalidad.
+  - Información sobre el control de drogas en United Kingdom.
+  - Etcétera
+ 
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Temporary Internet Files" (Imágenes        37-47)**
+ 
 - Otros datos de interés.
+
+  A continuación, muestro otros archivos que he ido encontrando durante la investigación y que no he podido clasificar en ninguno de los puntos anteriores:
+
+  - 
 
 # Caso 2: Pornografía
 
