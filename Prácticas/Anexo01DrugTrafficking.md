@@ -21,4 +21,8 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 # Caso 1: Tráfico de Drogas
 
+
+
 ## Deleted Files
+
+# Caso 2: Pornografía
