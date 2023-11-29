@@ -6,7 +6,7 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 # Índice
 1. [Caso 1: Tráfico de Drogas](#caso-1-tráfico-de-drogas)
-   * [$OrphanFiles](#$orphanfiles)
+   * [\$OrphanFiles](#$orphanfiles)
    * [Usuario: Jhon](#usuario-jhon)
    * [RECYCLER](#recycler)
    * [Metadatos](#metadatos)
