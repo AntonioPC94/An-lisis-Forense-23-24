@@ -191,7 +191,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   - Imágenes nombradas como: "20130404_102700.jpg", "20130404_102702.jpg" y "20130404_102715.jpg".
 
-  Estas imágenes muestran varias perspectivas de un mismo edificio, el cual parece ser su centro de operaciones.
+  Estas imágenes muestran varias perspectivas de un mismo edificio, el cual parece ser un centro de operaciones.
 
   - Imagen nombrada como: "store plane.jpg".
 
