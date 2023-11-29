@@ -163,17 +163,17 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 - Localización y extracción de archivos eliminados.
 
-  ## Deleted Files
+  ## $OrphanFiles
   
-  En los "Deleted Files" del sistema, encontré los siguientes archivos fotográficos relacionados con el caso que estoy investigando:
+  En los "$OrphanFiles" del sistema, encontré los siguientes archivos fotográficos relacionados con el caso que estoy investigando:
   
   - Imágenes nombradas como: "Almacen mataro 2.jpg", "Almacen mataro 3.jpg", "Almacen mataro.jpg, "Almacen terrassa 3.jpg", "Almacen terrassa 4.jpg", "Almacen terrassa.jpg",     "coca.jpg", "fabricando coca 2.jpg", "fabricando coca 3.jpg", "fabricando coca 4.jpg", "fabricando coca.jpg", "fiesta Jorge.jpg", "kasius 2.jpg", "kasius.jpg", "Maria en     negocio Jorge.jpg", "mercancia 2.jpg", "Mercancia terrassa.jpg", "mercancia.jpg", y "pastillas.jpg".
 
   En dichas imágenes, aparecen por ejemplo, varias personas consumiendo sustancias estupefacientes, un par de recetas que muestran el proceso de fabricación de la cocaína,     etcétera.
 
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Deleted Files" (Imágenes 1-19)**
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "$OrphanFiles" (Imágenes 1-19)**
 
-  Nota: Las imágenes también las podemos encontrar en los "$OrphanFiles" y en los "$CarvedFiles" del sistema.
+  Nota: Las imágenes también las podemos encontrar en los "$CarvedFiles" y en los "Deleted Files" del sistema.
   
 - Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.
 
