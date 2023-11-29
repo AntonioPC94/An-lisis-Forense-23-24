@@ -256,7 +256,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
     - Búsqueda en "www.narcoticnews.com", una página que informa sobre las últimas sustancias estupefacientes sacadas al mercado.
     - Búsqueda en "www.gov.uk", página del gobierno de Reino Unido, en la cual entró el sospechoso para investigar sobre las multas o penas de cárcel que podría sufrir en          caso de que le pillasen creando sustancias estupefacientes en casa.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Cookies" (Imágenes 32-35)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Cookies".**
 
   ## Carpeta Local Settings
 
