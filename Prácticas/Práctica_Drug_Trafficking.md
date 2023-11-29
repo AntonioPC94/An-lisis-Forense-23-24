@@ -274,7 +274,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   ## Carpeta Temporary Internet Files
 
-  En la carpeta "Temporary Internet Files", había un directorio dentro del único subdirectorio que había, llamado "Content.IE5". En este había información sobre algunas de     las búsquedas realizadas por Jhon en algún momento de su día a día.
+  En la carpeta "Temporary Internet Files", había un directorio dentro del único subdirectorio que había, llamado "Content.IE5". En este había información sobre algunas de     las búsquedas realizadas por Jhon en algunos momentos de su día a día.
 
   De entre todas esas búsquedas, conseguí sacar una serie de ficheros ".htm" que contenían la siguiente información:
 
