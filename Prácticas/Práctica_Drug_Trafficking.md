@@ -201,7 +201,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   ## Carpeta RECYCLER
 
-  En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios llamado "Dc2", en el cuál encontré las siguientes imágenes:
+  En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios llamado "Dc2", el cual contenía las siguientes imágenes:
 
   - Imágenes nombradas como: "20130329_140030.jpg", "20130329_140033.jpg" y "20130329_140035.jpg".
 
