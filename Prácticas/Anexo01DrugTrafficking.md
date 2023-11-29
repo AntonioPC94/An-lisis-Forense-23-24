@@ -137,6 +137,8 @@ Trabajo realizado por: Antonio Peñalver Caro
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/$OrphanFiles/pastillas.jpg             | 6fe69a3ad25893e824b7c40e252f96a8                       | 2013-03-27 06:19:22 CET | 2013-06-19 04:11:24 CEST | 2013-06-19 04:11:24 CEST | 2013-06-19 04:11:24 CEST | 12942     | ![Vista previa 1](url_de_la_imagen) |
 
+#
+
 ## Usuario: Jhon
 
 ### coca.pdf
@@ -169,6 +171,8 @@ Trabajo realizado por: Antonio Peñalver Caro
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/John/My Documents/mataro store/store plane.jpg             | 7300f60364f28bc5ea67e96b1e1fed24                       | 2013-03-27 06:47:56 CET | 2013-04-23 02:58:06 CEST | 2013-04-23 02:58:06 CEST | 2013-04-23 02:58:06 CEST | 16203     | ![Vista previa 1](url_de_la_imagen) |
 
+# 
+
 ## RECYCLER
 
 ### 20130329_140030.jpg
@@ -195,11 +199,15 @@ Trabajo realizado por: Antonio Peñalver Caro
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/RECYCLER/S-1-5-21-1343024091-152049171-725345543-1003/Dc2/store plane.gif             | d08e19d022c44e0c346d1b070759eb0f                       | 2013-03-27 06:47:24 CET | 2013-04-23 02:58:13 CEST | 2013-04-23 02:58:13 CEST | 2013-04-23 02:58:06 CEST | 81571     | ![Vista previa 1](url_de_la_imagen) |
 
+#
+
 ## Metadatos
 
 Los metadatos fueron extraídos de una de las imágenes encontradas en una de las subcarpetas de "RECYCLER": 20130329_140030.jpg
 
 ![Exiftool20130329_140030JPG]()
+
+#
 
 ## Hojas de Cálculo
 
@@ -214,6 +222,8 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 |               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/John/My Documents/contrasenyas.xls             | 0a76cd274e4f4750b69cc57a4aa9a5b0                       | 2013-04-23 01:34:22 CEST | 2013-04-23 02:57:53 CEST | 2013-04-23 02:57:53 CEST | 2013-04-23 02:57:53 CEST | 24064     | ![Vista previa 1](url_de_la_imagen) |
+
+#
 
 ## Cookies
 
@@ -241,6 +251,8 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/John/Cookies/john@www.gov[2].txt             | 6a0d59d74988529fd38de5c7179315dc                       | 2013-04-23 04:01:04 CEST | 2013-04-23 04:01:04 CEST | 2013-04-23 04:01:04 CEST | 2013-04-23 04:01:04 CEST | 550     | ![Vista previa 1](url_de_la_imagen) |
 
+#
+
 ## Local Settings
 
 ### index.dat
@@ -248,6 +260,8 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 |               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/John/Local Settings/History/History.IE5/MSHist012013042220130429/index.dat             | 5e2c3bbeb3b4648a053548c73638ea40                       | 2013-05-01 01:01:30 CEST | 2013-05-01 01:01:30 CEST | 2013-05-01 01:01:30 CEST | 2013-05-01 01:01:30 CEST | 49152     | ![Vista previa 1](url_de_la_imagen) |
+
+#
 
 ## Temporary Internet Files
 
@@ -263,7 +277,49 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/05O98JOH/505647-cocaine-in-spain[1].htm             | 7718849af9f2227b5a7a781f85f4b192                       | 2013-04-24 03:59:43 CEST | 2013-04-24 03:59:43 CEST | 2013-04-24 03:59:43 CEST | 2013-04-24 03:59:42 CEST | 173001     | ![Vista previa 1](url_de_la_imagen) |
 
+### CASPEBCD.htm
 
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/K5K7A7WZ/CASPEBCD.htm             | 1d12a3faf5c702a3e6a86761f3ae5b50                       | 2013-04-23 04:02:43 CEST | 2013-04-23 04:02:43 CEST | 2013-04-23 04:02:43 CEST | 2013-04-23 04:02:43 CEST | 44883     | ![Vista previa 1](url_de_la_imagen) |
+
+### controlled-drugs-licences-fees-and-returns[1].htm 
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/ONAJYTEX/controlled-drugs-licences-fees-and-returns[1].htm             | 1e3bfeb73c51740c57699692af3d6656                       | 2013-04-23 04:01:01 CEST | 2013-04-23 04:01:01 CEST | 2013-04-23 04:01:01 CEST | 2013-04-23 04:01:01 CEST | 46975     | ![Vista previa 1](url_de_la_imagen) |
+
+### search[1].htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/K5K7A7WZ/search[1].htm             | 7b0cd56320c1eeff9bfc687481271f33                       | 2013-04-24 03:59:11 CEST | 2013-04-24 03:59:11 CEST | 2013-04-24 03:59:11 CEST | 2013-04-24 03:59:10 CEST | 45603     | ![Vista previa 1](url_de_la_imagen) |
+
+### search[2].htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/K5K7A7WZ/search[2].htm             | c9cb623b16fd4702dfea4c4e100414ba                       | 2013-04-24 03:59:39 CEST | 2013-04-24 03:59:39 CEST | 2013-04-24 03:59:39 CEST | 2013-04-24 03:59:39 CEST | 46221     | ![Vista previa 1](url_de_la_imagen) |
+
+### search[2].htm 
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/2BA7G783/search[2].htm             | 636f367b0419a22eebfd056f26b90d22                       | 2013-04-23 04:00:47 CEST | 2013-04-23 04:00:47 CEST | 2013-04-23 04:00:47 CEST | 2013-04-23 04:00:47 CEST | 47952     | ![Vista previa 1](url_de_la_imagen) |
+
+### search[4].htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/2BA7G783/search[4].htm             | e023892ba2e84f0c52634d0c0e924cfa                       | 2013-04-26 01:01:01 CEST | 2013-04-26 01:01:01 CEST | 2013-04-26 01:01:01 CEST | 2013-04-26 01:00:34 CEST | 49649     | ![Vista previa 1](url_de_la_imagen) |
+
+### search[5].htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/2BA7G783/search[5].htm             | f638f63b0d580e2d059a3ab7d8fdd8f6                       | 2013-04-26 01:01:20 CEST | 2013-04-26 01:01:20 CEST | 2013-04-26 01:01:20 CEST | 2013-04-26 01:01:19 CEST | 55133     | ![Vista previa 1](url_de_la_imagen) |
+
+#
 
 ## Otros Datos de Interés
 
