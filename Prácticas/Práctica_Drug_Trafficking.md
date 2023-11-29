@@ -243,7 +243,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
     
 - ¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?
 
-  Si, tal y como comenté anteriormente, encontré una hoja de cálculo protegida con contraseña (Contactes.xls). Y no, no he podido acceder a su contenido.
+  Si, tal y como comenté anteriormente, encontré una hoja de cálculo protegida con contraseña (Contactes.xls). No, no he podido acceder a su contenido.
   
 - Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.
 
