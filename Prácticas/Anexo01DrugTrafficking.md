@@ -191,13 +191,81 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 ### store plane.gif
 
-
 |               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/RECYCLER/S-1-5-21-1343024091-152049171-725345543-1003/Dc2/store plane.gif             | d08e19d022c44e0c346d1b070759eb0f                       | 2013-03-27 06:47:24 CET | 2013-04-23 02:58:13 CEST | 2013-04-23 02:58:13 CEST | 2013-04-23 02:58:06 CEST | 81571     | ![Vista previa 1](url_de_la_imagen) |
 
 ## Metadatos
 
+Los metadatos fueron extraídos de una de las imágenes encontradas en una de las subcarpetas de "RECYCLER": 20130329_140030.jpg
+
+![Exiftool20130329_140030JPG]()
+
+## Hojas de Cálculo
+
+### Contactes.xls
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Desktop/Contactes.xls             | 84f9be74d345e59725a8c793e7370d8f                       | 2013-03-28 05:07:40 CET | 2013-04-23 02:58:27 CEST | 2013-04-23 02:58:27 CEST | 2013-04-23 02:58:27 CEST | 14848     | ![Vista previa 1](url_de_la_imagen) |
+
+### contrasenyas.xls
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/My Documents/contrasenyas.xls             | 0a76cd274e4f4750b69cc57a4aa9a5b0                       | 2013-04-23 01:34:22 CEST | 2013-04-23 02:57:53 CEST | 2013-04-23 02:57:53 CEST | 2013-04-23 02:57:53 CEST | 24064     | ![Vista previa 1](url_de_la_imagen) |
+
+## Cookies
+
+### john@cadca[1].txt
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Cookies/john@cadca[1].txt             | 52cc1e66907e95383dfdb4cbff84145b                       | 2013-04-23 04:01:28 CEST | 2013-04-23 04:01:28 CEST | 2013-04-23 04:01:28 CEST | 2013-04-23 04:01:17 CEST | 498     | ![Vista previa 1](url_de_la_imagen) |
+
+### john@www.emcdda.europa[1].txt
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Cookies/john@www.emcdda.europa[1].txt             | 95a4ce494413bb2de4da029218570119                       | 2013-04-23 04:01:45 CEST | 2013-04-23 04:01:45 CEST | 2013-04-23 04:01:45 CEST | 2013-04-23 04:01:44 CEST | 314     | ![Vista previa 1](url_de_la_imagen) |
+
+### john@narcoticnews[1].txt
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Cookies/john@narcoticnews[1].txt             | 9b4eba13d05d98b76b51bfed5f0ad6f0                       | 2013-04-24 03:59:16 CEST | 2013-04-24 03:59:16 CEST | 2013-04-24 03:59:16 CEST | 2013-04-24 03:59:15 CEST | 388     | ![Vista previa 1](url_de_la_imagen) |
+
+### john@www.gov[2].txt
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Cookies/john@www.gov[2].txt             | 6a0d59d74988529fd38de5c7179315dc                       | 2013-04-23 04:01:04 CEST | 2013-04-23 04:01:04 CEST | 2013-04-23 04:01:04 CEST | 2013-04-23 04:01:04 CEST | 550     | ![Vista previa 1](url_de_la_imagen) |
+
+## Local Settings
+
+### index.dat
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/History/History.IE5/MSHist012013042220130429/index.dat             | 5e2c3bbeb3b4648a053548c73638ea40                       | 2013-05-01 01:01:30 CEST | 2013-05-01 01:01:30 CEST | 2013-05-01 01:01:30 CEST | 2013-05-01 01:01:30 CEST | 49152     | ![Vista previa 1](url_de_la_imagen) |
+
+## Temporary Internet Files
+
+### 200711-2584457777777777777777[1].htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/05O98JOH/200711-2584457777777777777777[1].htm             | c3f8788e09d27cfe4a98db0f83e45554                       | 2013-04-26 01:01:04 CEST | 2013-04-26 01:01:04 CEST | 2013-04-26 01:01:04 CEST | 2013-04-26 01:01:04 CEST | 36272     | ![Vista previa 1](url_de_la_imagen) |
+
+### 505647-cocaine-in-spain[1].htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/05O98JOH/505647-cocaine-in-spain[1].htm             | 7718849af9f2227b5a7a781f85f4b192                       | 2013-04-24 03:59:43 CEST | 2013-04-24 03:59:43 CEST | 2013-04-24 03:59:43 CEST | 2013-04-24 03:59:42 CEST | 173001     | ![Vista previa 1](url_de_la_imagen) |
+
+
+
+## Otros Datos de Interés
 
 
 # Caso 2: Pornografía
