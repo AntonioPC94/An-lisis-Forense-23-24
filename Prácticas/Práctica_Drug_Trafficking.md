@@ -217,7 +217,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 - ¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?
 
-  Entre los metadatos de algunas de las imágenes anteriores, descubrí la marca y el modelo del teléfono móvil con el que sospechoso realizó las fotos. Realizando una pequeña   búsqueda en Google, descubrí que se trataba de un Samsung Galaxy S3 Mini.
+  Entre los metadatos de algunas de las imágenes anteriores, descubrí la marca y el modelo del teléfono móvil con el que el sospechoso realizó las fotos. Realizando una pequeña   búsqueda en Google, descubrí que se trataba de un Samsung Galaxy S3 Mini.
 
   **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Metadatos" (Imagen 29)**
   
