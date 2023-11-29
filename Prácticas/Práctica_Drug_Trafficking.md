@@ -260,7 +260,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   ## Carpeta Local Settings
 
-  En la carpeta "Local Settings", había un directorio dentro del único subdirectorio que había, llamado "History.IE5". En este había información sobre todas las búsquedas      realizadas en Internet por el usuario Jhon.
+  En la carpeta "Local Settings", había una carpeta llamada "History" y dentro de ella, había un directorio llamado "History.IE5". En este había varios subdirectorios con      información sobre todas las búsquedas realizadas en Internet por el usuario Jhon.
   
   De entre todas las URLs, conseguí sacar 27 búsquedas relacionadas con el caso:
 
