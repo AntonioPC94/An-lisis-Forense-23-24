@@ -251,7 +251,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En la carpeta "Cookies", habían ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. Entre ellas:
 
-    - Búsqueda en "www.cadga.org", una organización sin fines lucrativos comprometida con la creación de lugar seguros, saludables y libres de drogas.
+    - Búsqueda en "www.cadga.org", una organización sin fines lucrativos comprometida con la creación de lugares seguros, saludables y libres de drogas.
     - Búsqueda en "www.emcdda.europa.eu", un punto de referencia para informarse sobre los distintos tipos de drogas que existen y las adicciones que crean las mismas.
     - Búsqueda en "www.narcoticnews.com", una página que informa sobre las últimas sustancias estupefacientes sacadas al mercado.
     - Búsqueda en "www.gov.uk", página del gobierno de Reino Unido, en la cual entró el sospechoso para investigar sobre las multas o penas de cárcel que podría sufrir en          caso de que le pillasen creando sustancias estupefacientes en casa.
