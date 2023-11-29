@@ -205,7 +205,9 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 Los metadatos fueron extraídos de una de las imágenes encontradas en una de las subcarpetas de "RECYCLER": 20130329_140030.jpg
 
-![Exiftool20130329_140030JPG](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Metadatos%20Im%C3%A1genes/Exiftool20130329_140030JPG.png)
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Metadatos%20Im%C3%A1genes/Exiftool20130329_140030JPG.png" alt="img15"/>
+</p>
 
 #
 
