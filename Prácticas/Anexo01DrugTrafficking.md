@@ -21,7 +21,7 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 # Caso 1: Tráfico de Drogas
 
-## $OrphanFiles
+## Orphan Files
 
 ### Almacen mataro 2.jpg
 
