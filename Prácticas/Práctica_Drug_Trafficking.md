@@ -251,9 +251,30 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En la carpeta "Cookies", habían ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. Entre ellos:
 
-    - 
+    - Búsqueda en "www.cadga.org", una organización sin fines lucrativos comprometida con la creación de lugar seguros, saludables y libres de drogas.
+    - Búsqueda en "www.emcdda.europa.eu", un punto de referencia para informarse sobre los distintos tipos de drogas que existen y las adicciones que crean las mismas.
+    - Búsqueda en "www.narcoticnews.com", una página que informa sobre las últimas sustancias estupefacientes sacadas al mercado.
+    - Búsqueda en "www.gov.uk", página del gobierno de Reino Unido, en la cual entró el sospechoso para investigar sobre las multas o penas de cárcel que podría sufrir en          caso de que le pillasen creando sustancias estupefacientes en casa.
 
-    
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Cookies" (Imágenes 32-35)**
+
+  ## Carpeta Local Settings
+
+  En la carpeta "Local Settings", había un directorio dentro del único subdirectorio que había, llamado "History.IE5". En este había información sobre todas las búsquedas      realizadas en Internet por el usuario Jhon.
+  
+  De entre todas las URLs, conseguí sacar 27 búsquedas relacionadas con el caso:
+
+  - Búsquedas de vídeos en YouTube para saber cómo crear cocacína.
+  - Búsquedas en la página del gobierno de Reino Unido para saber cuánto cuesta una licencia de drogas.
+  - Búsquedas en Google Maps que quizás nos puedan proporcionar la localización de alguno de los centros de operaciones que tiene Jhon para crear su producto.
+  - Búsquedas en Wikipedia para conocer o revisar el código penal español.
+  - Etcétera.
+ 
+  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Local Settings" (Imagen 36)**
+
+  ## Carpeta Temporary Internet Files
+
+  En la carpeta "Temporary Internet Files", había un directorio dentro del único subdirectorio que había, llamado "Content.IE5". En este había información sobre todos los      ficheros generados
 
     
 - Otros datos de interés.
