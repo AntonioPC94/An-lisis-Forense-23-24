@@ -171,7 +171,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En dichas imágenes, aparecen por ejemplo, varias personas consumiendo sustancias estupefacientes, un par de recetas que muestran el proceso de fabricación de la cocaína,     etcétera.
 
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "$OrphanFiles" (Imágenes 1-19)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Orphan Files".**
 
   Nota: Las imágenes también las podemos encontrar en los "$CarvedFiles" y en los "Deleted Files" del sistema.
   
@@ -185,7 +185,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Este archivo contiene información sobre la taxonomía que tienen las plantas de coca.
 
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imagen 20)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Usuario: Jhon".**
   
   Dentro del directorio "Documentos" de Jhon, encontré un subdirectorio llamado "mataro-store", el cual contenía las siguientes imágenes:
 
@@ -197,7 +197,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que he mostrado en el apartado anterior.
 
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Usuario:Jhon" (Imágenes 21-24)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Usuario: Jhon".**
 
   ## Carpeta RECYCLER
 
@@ -211,7 +211,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que mostré en el apartado anterior.
 
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "RECYCLER" (Imágenes 25-28)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "RECYCLER".**
 
   Nota: En "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
 
@@ -219,7 +219,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Entre los metadatos de algunas de las imágenes anteriores, descubrí la marca y el modelo del teléfono móvil con el que el sospechoso realizó las fotos. Tras dicho            descubrimiento, realicé una pequeña búsqueda en Google y descubrí que se trataba de un Samsung Galaxy S3 Mini.
 
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Metadatos" (Imagen 29)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Metadatos".**
   
 - Hojas de cálculo.
 
@@ -235,7 +235,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
   Este archivo contiene las credenciales de acceso de Jhon a distintas plataformas de Internet. Por ejemplo, a su correo electrónico, a Ebay, etcétera.
 
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Hojas de Cálculo" (Imágenes 30-31)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Hojas de Cálculo"**
 
 - Ficheros comprimidos.
 
@@ -256,7 +256,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
     - Búsqueda en "www.narcoticnews.com", una página que informa sobre las últimas sustancias estupefacientes sacadas al mercado.
     - Búsqueda en "www.gov.uk", página del gobierno de Reino Unido, en la cual entró el sospechoso para investigar sobre las multas o penas de cárcel que podría sufrir en          caso de que le pillasen creando sustancias estupefacientes en casa.
 
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Cookies" (Imágenes 32-35)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Cookies" (Imágenes 32-35)**
 
   ## Carpeta Local Settings
 
@@ -270,7 +270,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Búsquedas en Wikipedia para conocer o revisar el código penal español.
   - Etcétera.
  
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Local Settings" (Imagen 36)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Local Settings"**
 
   ## Carpeta Temporary Internet Files
 
@@ -283,7 +283,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Información sobre el control de drogas en United Kingdom.
   - Etcétera
  
-  **Véase dicha información en el anexo adjunto a este informe: **CREAR ENLACE AL DOCUMENTO** --> Anexo01DrugTrafficking.md, apartado "Temporary Internet Files" (Imágenes        37-47)**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Temporary Internet Files"**
  
 - Otros datos de interés.
 
