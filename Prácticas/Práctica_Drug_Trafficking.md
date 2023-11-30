@@ -261,7 +261,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
 - **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
   
-  En la carpeta "Cookies", habían 50 ficheros ".txt" y 1 fichero ".dat" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. De todos esos            ficheros, solo 4 me llamaron bastante la atención:
+  En la carpeta "Cookies", habían 50 ficheros ".txt" y 1 fichero ".dat" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. De todos esos            ficheros, solo 4 me llamaron la atención:
 
     - Búsqueda en "www.cadca.org", una organización sin fines lucrativos comprometida con la creación de lugares seguros, saludables y libres de drogas.
     - Búsqueda en "www.emcdda.europa.eu", un punto de referencia para informarse sobre los distintos tipos de drogas que existen y las adicciones que crean las mismas.
@@ -282,9 +282,9 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Local Settings"**
 
-  En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba tres subdirectorios que contenían información sobre algunas de las     búsquedas realizadas por el sospechoso en algunos momentos de su día a día.
+  En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba cuatro subdirectorios que contenían información sobre imágenes,        búsquedas realizadas por el sospechoso, etcétera, en su día a día. Concretamente habían 1882 ficheros.
 
-  De entre todas esas búsquedas, conseguí sacar una serie de ficheros ".htm" relacionados con el caso, que contenían la siguiente información:
+  De entre todas esas imágenes y búsquedas, conseguí sacar una serie de ficheros ".htm" relacionados con el caso, que contenían la siguiente información:
 
   - Búsquedas de información en distintos motores de búsqueda sobre drogas.
   - Noticias jurídicas sobre el delito de tráfico de drogas y el principio de proporcionalidad.
@@ -334,6 +334,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En la carpeta "RECYCLER", había una hoja de cálculo dentro de uno de sus subdirectorios que se llamaba "Dc1.xls", esta contenía lo que parecía ser una lista de vídeos        subidos a la plataforma EMule.
 
+  En el apartado "OS Account" de Autopsy, vi que dicho archivo está asignado al identificador de Ian.
+
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Hojas del Cálculo"**
   
 - **Ficheros comprimidos.**
@@ -342,12 +344,25 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Este archivo, es un fichero comprimido llamado "pedofilia.zip", cuyo contenido no se puede ver al completo, ya que está protegido con contraseña. Lo único que se puede ver   de él, es una subcarpeta llamada "ilegal content", la cual contiene 186 carpetas con imágenes ".png" relacionadas con el caso.
 
+  En el apartado "OS Account" de Autopsy, vi que dicho archivo está asignado al identificador de Ian.
+
    **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Ficheros Comprimidos"**
   
 - **¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?**
 - **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
 
-  En la carpeta "Cookies" habían 28 ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Ian. De todos esos ficheros, solo 4 me llamaron    bastante la atención:
+  En la carpeta "Cookies" habían 28 ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Ian. De todos esos ficheros, solo 1 me llamó la    atención:
+
+  - Búsqueda en "www.groups.google.com", el sospechoso buscaba en este caso unirse a algún grupo de porno ilegal.
+ 
+   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Cookies"**
+
+  En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba cuatro subdirectorios que contenían información sobre imágenes,        búsquedas realizadas por el sospechoso, etcétera, en su día a día. Concretamente habían 410 ficheros.
+
+  De entre todas esas imágenes y búsquedas, conseguí sacar una serie de ficheros ".htm" que mostraban diferentes búsquedas de Google relacionadas con la pornografía.
+
+   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Temporary Internet Files"**
+  
 
 
 
