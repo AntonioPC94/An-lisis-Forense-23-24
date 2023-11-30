@@ -163,7 +163,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
    Para poder asociar lo que encuentre a cada uno de los usuarios, tendré que averiguar primero qué identificador está asociado a cada uno ellos.
 
-   Para ello, tendré que ir al registro SAM del sistema y mirarlos:
+   Para ello, tendré que ir al registro SAM del sistema y buscarlos:
 
     - Identificador Jhon: 1003
     - Identificador Ian: 1004
