@@ -275,7 +275,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
 - **Otros datos de interés.**
 
-  Entre los archivos que mencioné anteriormente que estaban en el "Escritorio" de Jhon, encontré los siguientes:
+  Aparte de los archivos que mencioné anteriormente que estaban en el "Escritorio" de Jhon, encontré los siguientes:
 
   - Archivo ".link" nombrado como "manufacturing amfetas.link".
 
