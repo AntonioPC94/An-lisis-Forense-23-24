@@ -17,7 +17,7 @@ Trabajo realizado por: Antonio Peñalver Caro
    * [Otros Datos de Interés](#otros-datos-de-interés)
 2. [Caso 2: Pornografía](#caso-2-pornografía)
    * [Hojas de Cálculo 2](#hojas-de-cálculo-2)
-   * [Ficheros Comprimidos-2](#ficheros-comprimidos-2)
+   * [Ficheros Comprimidos](#ficheros-comprimidos)
    * [Cookies](#cookies-2)
    * [Temporary Internet Files](#temporary-internet-files-2)
   
