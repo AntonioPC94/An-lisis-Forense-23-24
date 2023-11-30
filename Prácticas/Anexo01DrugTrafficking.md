@@ -10,16 +10,16 @@ Trabajo realizado por: Antonio Peñalver Caro
    * [Usuario: Jhon](#usuario-jhon)
    * [RECYCLER](#recycler)
    * [Metadatos](#metadatos)
-   * [Hojas de Cálculo](#hojas-de-cálculo)
-   * [Cookies](#cookies)
+   * [Hojas de Cálculo 1](#hojas-de-cálculo-1)
+   * [Cookies 1](#cookies-1)
    * [Local Settings](#local-settings)
-   * [Temporary Internet Files](#temporary-internet-files)
+   * [Temporary Internet Files 1](#temporary-internet-files-1)
    * [Otros Datos de Interés](#otros-datos-de-interés)
 2. [Caso 2: Pornografía](#caso-2-pornografía)
-   * [Hojas de Cálculo](#hojas-de-cálculo)
-   * [Ficheros Comprimidos](#ficheros-comprimidos)
-   * [Cookies](#cookies)
-   * [Temporary Internet Files](#temporary-internet-files)
+   * [Hojas de Cálculo 2](#hojas-de-cálculo-2)
+   * [Ficheros Comprimidos-2](#ficheros-comprimidos-2)
+   * [Cookies](#cookies-2)
+   * [Temporary Internet Files](#temporary-internet-files-2)
   
 #
 
@@ -215,7 +215,7 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 
 #
 
-## Hojas de Cálculo
+## Hojas de Cálculo 1
 
 ### Contactes.xls
 
@@ -231,7 +231,7 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 
 #
 
-## Cookies
+## Cookies 1
 
 ### john@cadca[1].txt
 
@@ -269,7 +269,7 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 
 #
 
-## Temporary Internet Files
+## Temporary Internet Files 1
 
 ### 200711-2584457777777777777777[1].htm
 
@@ -349,7 +349,7 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 
 # Caso 2: Pornografía
 
-## Hojas de Cálculo
+## Hojas de Cálculo 2
 
 ### Dc1.xls
 
@@ -365,7 +365,7 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/Ian/My Documents/My Pictures/pedofilia.zip            | a54529c01bf3a24963ded1fa74579de5                       | 2013-03-28 05:33:36 CET | 2013-04-23 04:08:37 CEST | 2013-04-23 04:08:37 CEST | 2013-04-23 04:08:36 CEST | 8899826     | ![pedofilia.zip](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/159c7a5be70ffe659ce836a73050442ab43865e7/Pr%C3%A1cticas/img_anexo/Archivos%20Comprimidos/ilegal%20content.png) |
 
-## Cookies
+## Cookies 2
 
 ### ian@groups.google[2].txt
 
@@ -373,7 +373,7 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/Ian/Cookies/ian@groups.google[2].txt            | 7e34bdb1729e5778fae435ce54be9a60                       | 2013-04-23 04:16:24 CEST | 2013-04-23 04:16:24 CEST | 2013-04-23 04:16:24 CEST | 2013-04-23 04:16:24 CEST | 450     | ![ian@groups.google[2].txt](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/159c7a5be70ffe659ce836a73050442ab43865e7/Pr%C3%A1cticas/img_anexo/Cookies/ian%40groupsgoogle.png) |
 
-## Temporary Internet Files
+## Temporary Internet Files 2
 
 ### CA4QF27O.htm
 
