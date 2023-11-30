@@ -289,7 +289,21 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   A continuación, muestro otros archivos que he ido encontrando durante la investigación y que no he podido clasificar en ninguno de los puntos anteriores:
 
-  - 
+  - Archivo ".link" nombrado como "manufacturing amfetas.link".
+
+    Este archivo contiene información sobre cómo se puede crear metanfetamina en casa.
+
+  - Archivo ".link" nombrado como "manufacturing.link".
+
+    Este archivo contiene información sobre conceptos bioquímicos.
+
+  - Archivo ".ico" nombrado como "providers.ico".
+ 
+    Este archivo contiene información sobre algunos de los proveedores con los que contactaba el sospechoso.
+
+   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Otros Datos de Interés"**
+
+    Nota: Las imágenes vistas en el archivo "manufacturing.link" nos las podremos encontrar también en el "Escritorio" de Jhon.
 
 # Caso 2: Pornografía
 
