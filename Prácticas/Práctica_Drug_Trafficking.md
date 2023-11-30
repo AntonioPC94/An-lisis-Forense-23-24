@@ -282,7 +282,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Local Settings"**
 
-  En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba cuatro subdirectorios que contenían información sobre imágenes,        búsquedas realizadas por el sospechoso, etcétera, en su día a día. Concretamente habían 1882 ficheros.
+  En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba cuatro subdirectorios que contenían información sobre imágenes,        búsquedas realizadas por el sospechoso en su día a día, etcétera. Concretamente habían 1882 ficheros.
 
   De entre todas esas imágenes y búsquedas, conseguí sacar una serie de ficheros ".htm" relacionados con el caso, que contenían la siguiente información:
 
@@ -357,7 +357,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
    **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Cookies"**
 
-  En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba cuatro subdirectorios que contenían información sobre imágenes,        búsquedas realizadas por el sospechoso, etcétera, en su día a día. Concretamente habían 410 ficheros.
+  En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba cuatro subdirectorios que contenían información sobre imágenes,        búsquedas realizadas por el sospechoso en su día a día, etcétera. Concretamente habían 410 ficheros.
 
   De entre todas esas imágenes y búsquedas, conseguí sacar una serie de ficheros ".htm" que mostraban diferentes búsquedas de Google relacionadas con la pornografía.
 
