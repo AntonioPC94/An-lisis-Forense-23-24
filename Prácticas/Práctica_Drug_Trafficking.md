@@ -162,8 +162,6 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 4) **Localiza, extrae y relaciona los siguientes hallazgos, asociándose, si es posible, al usuario al cual pertenecen:**
 
 - Localización y extracción de archivos eliminados.
-
-  ## $OrphanFiles
   
   En los "$OrphanFiles" del sistema, encontré los siguientes archivos fotográficos relacionados con el caso que estoy investigando:
   
@@ -176,8 +174,6 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   Nota: Las imágenes también las podemos encontrar en los "$CarvedFiles" y en los "Deleted Files" del sistema.
   
 - Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.
-
-  ## Usuario: Jhon
 
   En el "Escritorio" de Jhon, encontré el siguiente documento:
 
@@ -199,8 +195,6 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Usuario: Jhon".**
 
-  ## Carpeta RECYCLER
-
   En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios llamado "Dc2", el cual contenía las siguientes imágenes:
 
   - Imágenes nombradas como: "20130329_140030.jpg", "20130329_140033.jpg" y "20130329_140035.jpg".
@@ -213,7 +207,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "RECYCLER".**
 
-  Nota: En "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
+  Nota: En la carpeta "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
 
 - ¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?
 
@@ -246,9 +240,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   Si, tal y como comenté anteriormente, encontré una hoja de cálculo protegida con contraseña (Contactes.xls). No, no he podido acceder a su contenido.
   
 - Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.
-
-  ## Carpeta Cookies
-
+  
   En la carpeta "Cookies", habían ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. Entre ellas:
 
     - Búsqueda en "www.cadca.org", una organización sin fines lucrativos comprometida con la creación de lugares seguros, saludables y libres de drogas.
@@ -257,8 +249,6 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
     - Búsqueda en "www.gov.uk", página del gobierno de Reino Unido, en la cual entró el sospechoso para investigar sobre las multas o penas de cárcel que podría sufrir en          caso de que le pillasen creando sustancias estupefacientes en casa.
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Cookies".**
-
-  ## Carpeta Local Settings
 
   En la carpeta "Local Settings", había una carpeta llamada "History" y dentro de ella, había un directorio llamado "History.IE5". En este había varios subdirectorios con      información sobre todas las búsquedas realizadas en Internet por el usuario Jhon.
   
@@ -271,8 +261,6 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Etcétera.
  
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Local Settings"**
-
-  ## Carpeta Temporary Internet Files
 
   En la carpeta "Temporary Internet Files", había un directorio dentro del único subdirectorio que había, llamado "Content.IE5". En este había información sobre algunas de     las búsquedas realizadas por el sospechoso en algunos momentos de su día a día.
 
