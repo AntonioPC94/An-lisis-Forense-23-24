@@ -195,7 +195,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Usuario: Jhon".**
 
-  En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios que se llamaba "Dc2", el cual contenía algunos archivos y las siguientes imágenes           relacionadas con el caso:
+  En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios que se llamaba "Dc2", el cual contenía algunos archivos y las siguientes imágenes que       están relacionadas con el caso:
 
   - Imágenes nombradas como: "20130329_140030.jpg", "20130329_140033.jpg" y "20130329_140035.jpg".
 
