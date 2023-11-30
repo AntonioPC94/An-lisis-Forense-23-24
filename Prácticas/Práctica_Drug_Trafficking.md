@@ -163,7 +163,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 - **Localización y extracción de archivos eliminados.**
   
-  En los "$OrphanFiles" del sistema, encontré 20 imágenes relacionadas con el caso, de las cuales 19 pude visualizar sin problemas. La única que no pude visualizar, fue la     nombrada como "proceso final.jpg".
+  En los "$OrphanFiles" del sistema, encontré 20 imágenes relacionadas con el caso, de las cuales pude visualizar 19. La única que no pude visualizar, fue la     nombrada como "proceso final.jpg".
   
   - Las que pude visualizar, están nombradas como: "Almacen mataro 2.jpg", "Almacen mataro 3.jpg", "Almacen mataro.jpg, "Almacen terrassa 3.jpg", "Almacen terrassa 4.jpg",       "Almacen terrassa.jpg", "coca.jpg", "fabricando coca 2.jpg", "fabricando coca 3.jpg", "fabricando coca 4.jpg", "fabricando coca.jpg", "fiesta Jorge.jpg", "kasius 2.jpg",     "kasius.jpg", "Maria en negocio Jorge.jpg", "mercancia 2.jpg", "Mercancia terrassa.jpg", "mercancia.jpg", y "pastillas.jpg".
 
