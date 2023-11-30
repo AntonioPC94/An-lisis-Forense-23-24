@@ -161,7 +161,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 4) **Localiza, extrae y relaciona los siguientes hallazgos, asociándose, si es posible, al usuario al cual pertenecen:**
 
-   Para poder asociar lo que encuentre a cada uno de los usuarios, tendré que averiguar primero qué identificador tiene cada uno ellos.
+   Para poder asociar lo que encuentre a cada uno de los usuarios, tendré que averiguar primero qué identificador está asociado a cada uno ellos.
 
    Para ello, tendré que ir al registro SAM del sistema y mirarlos:
 
