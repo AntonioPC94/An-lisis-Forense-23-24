@@ -165,7 +165,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
   En los "$OrphanFiles" del sistema, encontré 20 imágenes relacionadas con el caso, de las cuales 19 pude visualizar sin problemas. La única que no pude visualizar, fue la     nombrada como "proceso final.jpg".
   
-  - Imágenes nombradas como: "Almacen mataro 2.jpg", "Almacen mataro 3.jpg", "Almacen mataro.jpg, "Almacen terrassa 3.jpg", "Almacen terrassa 4.jpg", "Almacen terrassa.jpg",     "coca.jpg", "fabricando coca 2.jpg", "fabricando coca 3.jpg", "fabricando coca 4.jpg", "fabricando coca.jpg", "fiesta Jorge.jpg", "kasius 2.jpg", "kasius.jpg", "Maria en     negocio Jorge.jpg", "mercancia 2.jpg", "Mercancia terrassa.jpg", "mercancia.jpg", y "pastillas.jpg".
+  - Las que pude visualizar, están nombradas como: "Almacen mataro 2.jpg", "Almacen mataro 3.jpg", "Almacen mataro.jpg, "Almacen terrassa 3.jpg", "Almacen terrassa 4.jpg",       "Almacen terrassa.jpg", "coca.jpg", "fabricando coca 2.jpg", "fabricando coca 3.jpg", "fabricando coca 4.jpg", "fabricando coca.jpg", "fiesta Jorge.jpg", "kasius 2.jpg",     "kasius.jpg", "Maria en negocio Jorge.jpg", "mercancia 2.jpg", "Mercancia terrassa.jpg", "mercancia.jpg", y "pastillas.jpg".
 
   En dichas imágenes, aparecen por ejemplo, varias personas consumiendo sustancias estupefacientes, un par de recetas que muestran el proceso de fabricación de la cocaína,     etcétera.
 
@@ -195,7 +195,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Usuario: Jhon".**
 
-  En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios que se llamaba "Dc2", el cual contenía las siguientes imágenes:
+  En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios que se llamaba "Dc2", el cual contenía algunos archivos y las siguientes imágenes           relacionadas con el caso:
 
   - Imágenes nombradas como: "20130329_140030.jpg", "20130329_140033.jpg" y "20130329_140035.jpg".
 
@@ -211,13 +211,13 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 - **¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?**
 
-  Entre los metadatos de las imágenes que encontré en la carpeta "RECYCLER", descubrí la marca y el modelo del teléfono móvil con el que el sospechoso realizó las fotos. Tras    dicho descubrimiento, realicé una pequeña búsqueda en Google y descubrí que se trataba de un Samsung Galaxy S3 Mini.
+  Entre los metadatos de las imágenes que encontré en la carpeta "RECYCLER", descubrí la marca y el modelo del teléfono móvil con el que el sospechoso realizó las fotos.       Tras dicho descubrimiento, realicé una pequeña búsqueda en Google y descubrí que se trataba de un Samsung Galaxy S3 Mini.
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Metadatos".**
   
 - **Hojas de cálculo.**
 
-  En el "Escritorio" de Jhon, encontré la siguiente hoja de cálculo:
+  Entre los archivos que mencioné anteriormente que estaban en el "Escritorio" de Jhon, encontré la siguiente hoja de cálculo:
 
   - Archivo Excel nombrado como: "Contactes.xls".
   
@@ -241,7 +241,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
 - **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
   
-  En la carpeta "Cookies", habían ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. Entre ellas:
+  En la carpeta "Cookies", habían 50 ficheros ".txt" y 1 fichero ".dat" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. De todos esos            ficheros, solo 4 me llamaron bastante la atención:
 
     - Búsqueda en "www.cadca.org", una organización sin fines lucrativos comprometida con la creación de lugares seguros, saludables y libres de drogas.
     - Búsqueda en "www.emcdda.europa.eu", un punto de referencia para informarse sobre los distintos tipos de drogas que existen y las adicciones que crean las mismas.
@@ -252,7 +252,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En la carpeta "Local Settings", había una carpeta llamada "History" y dentro de ella, había un directorio llamado "History.IE5". En este había varios subdirectorios con      información sobre todas las búsquedas realizadas en Internet por el usuario Jhon.
   
-  De entre todas las URLs, conseguí sacar 27 búsquedas relacionadas con el caso:
+  De entre las cerca de 70 URLs que localicé, conseguí sacar 27 relacionadas con el caso:
 
   - Búsquedas de vídeos en YouTube para saber cómo crear cocacína.
   - Búsquedas en la página del gobierno de Reino Unido para saber cuánto cuesta una licencia de drogas.
@@ -262,9 +262,9 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Local Settings"**
 
-  En la carpeta "Temporary Internet Files", había un directorio dentro del único subdirectorio que había, llamado "Content.IE5". En este había información sobre algunas de     las búsquedas realizadas por el sospechoso en algunos momentos de su día a día.
+  En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba tres subdirectorios que contenían información sobre algunas de las     búsquedas realizadas por el sospechoso en algunos momentos de su día a día.
 
-  De entre todas esas búsquedas, conseguí sacar una serie de ficheros ".htm" que contenían la siguiente información:
+  De entre todas esas búsquedas, conseguí sacar una serie de ficheros ".htm" relacionados con el caso, que contenían la siguiente información:
 
   - Búsquedas de información en distintos motores de búsqueda sobre drogas.
   - Noticias jurídicas sobre el delito de tráfico de drogas y el principio de proporcionalidad.
@@ -275,7 +275,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
 - **Otros datos de interés.**
 
-  En el "Escritorio" de Jhon, encontré los siguientes archivos:
+  Entre los archivos que mencioné anteriormente que estaban en el "Escritorio" de Jhon, encontré los siguientes:
 
   - Archivo ".link" nombrado como "manufacturing amfetas.link".
 
@@ -291,7 +291,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
    **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Otros Datos de Interés"**
 
-    Nota: Las imágenes vistas en el archivo "manufacturing.link" nos las podremos encontrar también en el "Escritorio" de Jhon.
+    Nota: Las imágenes incluidas en el archivo "manufacturing.link" nos las podremos encontrar por separado en el árbol de archivos que cuelgan del directorio "Escritorio"             de Jhon.
 
 5) **¿Has podido localizar alguna otra evidencia relacionada con algún otro tipo delictivo?. En caso afirmativo, describe y extrae los hallazgos localizados, y determina y lleva a cabo aquellas acciones que realizarías en calidad de perito (puedes utilizar, coomo guión, los apartados de la pregunta 4).**
 
