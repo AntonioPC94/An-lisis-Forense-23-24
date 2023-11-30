@@ -161,7 +161,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 4) **Localiza, extrae y relaciona los siguientes hallazgos, asociándose, si es posible, al usuario al cual pertenecen:**
 
-- Localización y extracción de archivos eliminados.
+- **Localización y extracción de archivos eliminados.**
   
   En los "$OrphanFiles" del sistema, encontré los siguientes archivos fotográficos relacionados con el caso que estoy investigando:
   
@@ -173,7 +173,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Nota: Las imágenes también las podemos encontrar en los "$CarvedFiles" y en los "Deleted Files" del sistema.
   
-- Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.
+- **Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.**
 
   En el "Escritorio" de Jhon, encontré el siguiente documento:
 
@@ -209,13 +209,13 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Nota: En la carpeta "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
 
-- ¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?
+- **¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?**
 
   Entre los metadatos de las imágenes que encontré en la carpeta "RECYCLER", descubrí la marca y el modelo del teléfono móvil con el que el sospechoso realizó las fotos. Tras    dicho descubrimiento, realicé una pequeña búsqueda en Google y descubrí que se trataba de un Samsung Galaxy S3 Mini.
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Metadatos".**
   
-- Hojas de cálculo.
+- **Hojas de cálculo.**
 
   En el "Escritorio" de Jhon, encontré la siguiente hoja de cálculo:
 
@@ -231,15 +231,15 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Hojas de Cálculo"**
 
-- Ficheros comprimidos.
+- **Ficheros comprimidos.**
 
   No he encontrado ficheros comprimidos relacionados con este caso.
     
-- ¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?
+- **¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?**
 
   Si, tal y como comenté anteriormente, encontré una hoja de cálculo protegida con contraseña (Contactes.xls). No, no he podido acceder a su contenido.
   
-- Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.
+- **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
   
   En la carpeta "Cookies", habían ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. Entre ellas:
 
@@ -273,7 +273,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Temporary Internet Files"**
  
-- Otros datos de interés.
+- **Otros datos de interés.**
 
   En el "Escritorio" de Jhon, encontré los siguientes archivos:
 
