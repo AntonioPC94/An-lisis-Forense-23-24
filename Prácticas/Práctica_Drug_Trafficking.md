@@ -256,7 +256,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   - Búsquedas de vídeos en YouTube para saber cómo crear cocacína.
   - Búsquedas en la página del gobierno de Reino Unido para saber cuánto cuesta una licencia de drogas.
-  - Búsquedas en Google Maps que quizás nos puedan proporcionar la localización de alguno de los centros de operaciones que tiene Jhon para crear su producto.
+  - Búsquedas en Google Maps que quizás nos puedan proporcionar la localización de alguno de los centros de operaciones que tiene el sospechoso para crear su producto.
   - Búsquedas en Wikipedia para conocer o revisar el código penal español.
   - Etcétera.
  
