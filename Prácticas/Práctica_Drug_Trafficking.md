@@ -181,7 +181,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Orphan Files".**
 
-  Nota: Las imágenes también las podemos encontrar duplicadas o con los nombres cambiados en los "$CarvedFiles" y en los "Deleted Files" del sistema.
+  Nota: Las imágenes también las podemos encontrar duplicadas o con los nombres cambiados en los "$CarvedFiles", en los "Deleted Files" del sistema y en el directorio "My            Pictures" de Jhon.
   
 - **Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.**
 
