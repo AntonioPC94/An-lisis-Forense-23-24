@@ -161,6 +161,14 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 4) **Localiza, extrae y relaciona los siguientes hallazgos, asociándose, si es posible, al usuario al cual pertenecen:**
 
+   Para poder asociar lo que encuentre a cada uno de los usuarios, tendré que averiguar primero qué identificador tiene cada uno ellos.
+
+   Para ello, tendré que ir al registro SAM del sistema y mirarlos:
+
+    - Identificador Jhon: 1003
+    - Identificador Ian: 1004
+    - Identificador Jessy: 1005
+
 - **Localización y extracción de archivos eliminados.**
   
   En los "$OrphanFiles" del sistema, encontré 20 imágenes relacionadas con el caso, de las cuales pude visualizar 19. La única que no pude visualizar, fue la nombrada como     "proceso final.jpg".
@@ -168,6 +176,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Las que pude visualizar, están nombradas como: "Almacen mataro 2.jpg", "Almacen mataro 3.jpg", "Almacen mataro.jpg, "Almacen terrassa 3.jpg", "Almacen terrassa 4.jpg",       "Almacen terrassa.jpg", "coca.jpg", "fabricando coca 2.jpg", "fabricando coca 3.jpg", "fabricando coca 4.jpg", "fabricando coca.jpg", "fiesta Jorge.jpg", "kasius 2.jpg",     "kasius.jpg", "Maria en negocio Jorge.jpg", "mercancia 2.jpg", "Mercancia terrassa.jpg", "mercancia.jpg", y "pastillas.jpg".
 
   En dichas imágenes, aparecen por ejemplo, varias personas consumiendo sustancias estupefacientes, un par de recetas que muestran el proceso de fabricación de la cocaína,     etcétera.
+
+  En el apartado "OS Account" de Autopsy, vi que dichas imágenes estaban asignadas al identificador de Jhon.
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Orphan Files".**
 
@@ -181,8 +191,10 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Este archivo contiene información sobre la taxonomía que tienen las plantas de coca.
 
+  En el apartado "OS Account" de Autopsy, vi que dicho archivo estaba asignado al identificador de Jhon.
+
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Usuario: Jhon".**
-  
+
   Dentro del directorio "Documentos" de Jhon, encontré un subdirectorio llamado "mataro-store", el cual contenía las siguientes imágenes:
 
   - Imágenes nombradas como: "20130404_102700.jpg", "20130404_102702.jpg" y "20130404_102715.jpg".
@@ -192,6 +204,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Imagen nombrada como: "store plane.jpg".
 
   Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que he mostrado en el apartado anterior.
+
+  En el apartado "OS Account" de Autopsy, vi que dichas imágenes estaban asignadas al identificador de Jhon.
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Usuario: Jhon".**
 
@@ -205,6 +219,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que mostré en el apartado anterior.
 
+  En el apartado "OS Account" de Autopsy, vi que dichas imágenes estaban asignadas al identificador de Jhon.
+
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / RECYCLER".**
 
   Nota: En la carpeta "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
@@ -212,6 +228,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 - **¿Los ficheros fotográficos contienen algún tipo de metadatos?. En caso afirmativo, ¿qué información te permiten obtener?**
 
   Entre los metadatos de las imágenes que encontré en la carpeta "RECYCLER", descubrí la marca y el modelo del teléfono móvil con el que el sospechoso realizó las fotos.       Tras dicho descubrimiento, realicé una pequeña búsqueda en Google y descubrí que se trataba de un Samsung Galaxy S3 Mini.
+
+  Como la imagen estaba bajo el identificador de Jhon, es muy probable que el dueño de dicho teléfono sea Jhon.
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Metadatos".**
   
@@ -228,6 +246,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Archivo Excel nombrado como "contrasenyas.xls".
   
   Este archivo contiene las credenciales de acceso de Jhon a distintas plataformas de Internet. Por ejemplo, a su correo electrónico, a Ebay, etcétera.
+
+  En el apartado "OS Account" de Autopsy, vi que dichos archivos estaban asignados al identificador de Jhon.
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Hojas de Cálculo"**
 
@@ -289,6 +309,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
     Este archivo contiene información sobre algunos de los proveedores con los que contactaba el sospechoso.
 
+    En el apartado "OS Account" de Autopsy, vi que dichos archivos estaban asignados al identificador de Jhon.
+
    **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Otros Datos de Interés"**
 
     Nota: Las imágenes incluidas en el archivo "manufacturing.link" nos las podremos encontrar por separado en un archivo nombrado con el mismo nombre que cuelga del             directorio "Escritorio" de Jhon.
@@ -324,6 +346,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
 - **¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?**
 - **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
+
+  En la carpeta "Cookies" habían 28 ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Ian. De todos esos ficheros, solo 4 me llamaron    bastante la atención:
 
 
 
