@@ -328,8 +328,13 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   No he encontrado archivos eliminados relacionados con el nuevo caso tanto por parte de ninguno de los usuarios del sistema.
   
 - **Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.**
+
+  (**RESPONDER**)
   
 - **¿Los ficheros fotográficos contienen algún tipo de metadatos? En caso afirmativo, ¿qué información te permiten obtener?**
+
+  (**RESPONDER**)
+  
 - **Hojas de cálculo.**
 
   En la carpeta "RECYCLER", había una hoja de cálculo dentro de uno de sus subdirectorios que se llamaba "Dc1.xls", esta contenía lo que parecía ser una lista de vídeos        subidos a la plataforma EMule.
@@ -351,6 +356,9 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   Nota: Como no se puede extraer la carpeta "ilegal content" para sacarle el HASH, voy a poner en el anexo la información del fichero comprimido.
   
 - **¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?**
+  
+  Si, tal y como comenté anteriormente, encontré un fichero comprimido protegido con contraseña (Pedofilia.zip). No, no he podido acceder a su contenido.
+  
 - **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
 
   En la carpeta "Cookies" habían 28 ficheros ".txt" con información sobre algunas de las búsquedas realizadas por el usuario Ian. De todos esos ficheros, solo 1 me llamó la    atención:
