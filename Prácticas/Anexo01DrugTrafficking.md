@@ -27,115 +27,115 @@ Trabajo realizado por: Antonio Peñalver Caro
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/Almacen mataro 2.jpg         | ba0268ffe1d3a340a595cfd9a8cd6b87   | 2013-03-27 06:39:14 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 9935           | ![Almacen mataro 2](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20mataro%202.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/Almacen mataro 2.jpg         | ba0268ffe1d3a340a595cfd9a8cd6b87   | 2013-03-27 06:39:14 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 9935           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20mataro%202.jpg" width="60" height="40"> |
 
 ### Almacen mataro 3.jpg
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/Almacen mataro 3.jpg         | 07e03d5971f5b5a6433a13565cac407d   | 2013-03-27 06:39:26 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 14399          | ![Almacen mataro 3](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20mataro%203.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/Almacen mataro 3.jpg         | 07e03d5971f5b5a6433a13565cac407d   | 2013-03-27 06:39:26 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 14399          | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20mataro%203.jpg" width="60" height="40"> |
 
 ### Almacen mataro.jpg
 
 | Ruta                                                  | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-----------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/Almacen mataro.jpg       | c7c5a5521ed005ddad94cb9a9b254d6b   | 2013-03-27 06:39:04 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 6998           | ![Almacen mataro](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20mataro.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/Almacen mataro.jpg       | c7c5a5521ed005ddad94cb9a9b254d6b   | 2013-03-27 06:39:04 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 6998           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20mataro.jpg" width="60" height="40"> |
 
 ### Almacen terrassa 3.jpg
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/Almacen terrassa 3.jpg       | 1e6f15394d075ba43308da22ba92059c   | 2013-03-27 06:39:42 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 6943           | ![Almacen terrassa 3](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20terrassa%203.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/Almacen terrassa 3.jpg       | 1e6f15394d075ba43308da22ba92059c   | 2013-03-27 06:39:42 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 6943           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20terrassa%203.jpg" width="60" height="40"> |
 
 ### Almacen terrassa 4.jpg
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/Almacen terrassa 4.jpg       | c641391cfe11009563aaf6d5ff7caf1b   | 2013-03-27 06:40:28 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 7349           | ![Almacen terrassa 4](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20terrassa%204.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/Almacen terrassa 4.jpg       | c641391cfe11009563aaf6d5ff7caf1b   | 2013-03-27 06:40:28 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 7349           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20terrassa%204.jpg" width="60" height="40">  |
 
 ### Almacen terrassa.jpg
 
 | Ruta                                                  | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-----------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/Almacen terrassa.jpg     | e9bc32019fe6c4bffb1ec9bef18b85aa   | 2013-03-27 06:20:50 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 9637           | ![Almacen terrassa](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20terrassa.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/Almacen terrassa.jpg     | e9bc32019fe6c4bffb1ec9bef18b85aa   | 2013-03-27 06:20:50 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 9637           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Almacen%20terrassa.jpg" width="60" height="40">  |
 
 ### coca.jpg
 
 | Ruta                                            | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-----------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/coca.jpg           | 1ffb5afbe2990760fd1b504386593f95   | 2013-03-27 06:19:58 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 5777           | ![coca](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/coca.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/coca.jpg           | 1ffb5afbe2990760fd1b504386593f95   | 2013-03-27 06:19:58 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 5777           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/coca.jpg" width="60" height="40">  |
 
 ### fabricando coca 2.jpg
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/fabricando coca 2.jpg        | 5131b40b7b745677b6a6b06e3580508c   | 2013-03-27 06:42:34 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 14373          | ![fabricando coca 2](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fabricando%20coca%202.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/fabricando coca 2.jpg        | 5131b40b7b745677b6a6b06e3580508c   | 2013-03-27 06:42:34 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 14373          | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fabricando%20coca%202.jpg" width="60" height="40">|
 
 ### fabricando coca 3.jpg
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/fabricando coca 3.jpg        | 99631163aabedd753f9a5d00b6fe74ac   | 2013-03-27 06:43:20 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 9994           | ![fabricando coca 3](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fabricando%20coca%203.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/fabricando coca 3.jpg        | 99631163aabedd753f9a5d00b6fe74ac   | 2013-03-27 06:43:20 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 9994           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fabricando%20coca%203.jpg" width="60" height="40"> |
 
 ### fabricando coca 4.jpg
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/fabricando coca 4.jpg        | ffbedbaa75fff0a2f405489082667c65   | 2013-03-27 06:43:30 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 12608          | ![fabricando coca 4](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fabricando%20coca%204.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/fabricando coca 4.jpg        | ffbedbaa75fff0a2f405489082667c65   | 2013-03-27 06:43:30 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 12608          | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fabricando%20coca%204.jpg" width="60" height="40"> |
 
 ### fabricando coca.jpg
 
 | Ruta                                                  | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-----------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/fabricando coca.jpg      | 66a8a952396995a7800ac63e8e2234bd   | 2013-03-27 06:42:28 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 6413           | ![fabricacion coca](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fabricando%20coca.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/fabricando coca.jpg      | 66a8a952396995a7800ac63e8e2234bd   | 2013-03-27 06:42:28 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 6413           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fabricando%20coca.jpg" width="60" height="40"> |
 
 ### fiesta Jorge.jpg
 
 | Ruta                                                  | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-----------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/fiesta Jorge.jpg         | c6661d1558b767f31c1f65242af95118   | 2013-03-27 06:20:20 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 8905           | ![fiesta Jorge](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fiesta%20Jorge.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/fiesta Jorge.jpg         | c6661d1558b767f31c1f65242af95118   | 2013-03-27 06:20:20 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 8905           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/fiesta%20Jorge.jpg" width="60" height="40">  |
 
 ### kasius 2.jpg
 
 | Ruta                                              | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/kasius 2.jpg         | 28f5966b1a4a72cb3b434f688bf8dd0b   | 2013-03-27 06:42:04 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 5716           | ![kasius 2](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/kasius%202.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/kasius 2.jpg         | 28f5966b1a4a72cb3b434f688bf8dd0b   | 2013-03-27 06:42:04 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 5716           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/kasius%202.jpg" width="60" height="40"> |
 
 ### kasius.jpg
 
 | Ruta                                              | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/kasius.jpg           | d56befec0c93acbad7fe9d48f5415a2b   | 2013-03-27 06:41:58 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 9175           | ![kasius](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/kasius.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/kasius.jpg           | d56befec0c93acbad7fe9d48f5415a2b   | 2013-03-27 06:41:58 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 9175           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/kasius.jpg" width="60" height="40"> |
 
 ### Maria en negocio Jorge.jpg
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/Maria en negocio Jorge.jpg   | 18f5a99105c58f8a71a3405562d2eafa   | 2013-03-27 06:38:30 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 5083           | ![Maria en negocio Jorge](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Maria%20en%20negocio%20Jorge.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/Maria en negocio Jorge.jpg   | 18f5a99105c58f8a71a3405562d2eafa   | 2013-03-27 06:38:30 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 5083           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Maria%20en%20negocio%20Jorge.jpg" width="60" height="40"> |
 
 ### mercancia 2.jpg
 
 | Ruta                                              | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/mercancia 2.jpg      | 5b5a015f4041bbed1bca11fc7be74fcc   | 2013-03-27 06:21:06 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 8620           | ![mercancia 2](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/mercancia%202.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/mercancia 2.jpg      | 5b5a015f4041bbed1bca11fc7be74fcc   | 2013-03-27 06:21:06 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 8620           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/mercancia%202.jpg" width="60" height="40"> |
 
 ### Mercancia terrassa.jpg
 
 | Ruta                                                      | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:---------------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/Mercancia terrassa.jpg       | 957894f16f61655cec7110625c7e344b   | 2013-03-27 06:38:52 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 8968           | ![Mercancia terrassa](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Mercancia%20terrassa.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/Mercancia terrassa.jpg       | 957894f16f61655cec7110625c7e344b   | 2013-03-27 06:38:52 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 8968           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/Mercancia%20terrassa.jpg" width="60" height="40"> |
 
 ### mercancia.jpg
 
 | Ruta                                              | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/mercancia.jpg        | c1481b245fe4f3b5362cd5e19ffaffba   | 2013-03-27 06:20:08 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 6917           | ![mercancia](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/mercancia.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/mercancia.jpg        | c1481b245fe4f3b5362cd5e19ffaffba   | 2013-03-27 06:20:08 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 6917           | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/mercancia.jpg" width="60" height="40"> |
 
 ### pastillas.jpg
 
 | Ruta                                              | MD5                               | Fecha de Modificación        | Fecha de Cambio           | Fecha de Acceso           | Fecha de Creación        | Tamaño (Bytes) | Vista Previa                      |
 |:-------------------------------------------------|:----------------------------------|:---------------------------:|:-------------------------:|:-------------------------:|:------------------------:|:--------------:|:---------------------------------:|
-| /img_AFI_W.E01/$OrphanFiles/pastillas.jpg        | 6fe69a3ad25893e824b7c40e252f96a8   | 2013-03-27 06:19:22 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 12942          | ![pastillas](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/pastillas.jpg) |
+| /img_AFI_W.E01/$OrphanFiles/pastillas.jpg        | 6fe69a3ad25893e824b7c40e252f96a8   | 2013-03-27 06:19:22 CET     | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST  | 2013-06-19 04:11:24 CEST | 12942          | <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Orphan%20Files/pastillas.jpg" width="60" height="40"> |
 
 #
 
