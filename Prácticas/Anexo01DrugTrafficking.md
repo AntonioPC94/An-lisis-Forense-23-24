@@ -325,5 +325,24 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 
 ## Otros Datos de Interés
 
+### manufacturing amfetas.link
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Desktop/manufacturing amfetas.link             | 9c555bd582caa34a371fad2487273833                       | 2013-03-28 05:54:58 CET | 2013-04-23 02:58:52 CEST | 2013-05-01 22:05:26 CEST | 2013-04-23 02:58:52 CEST | 133681     | ![manufacturingamfetaslink](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2e9774ef3def9cbdbcf644215aa39222a6eb9d3b/Pr%C3%A1cticas/img_anexo/Otros%20Datos%20de%20Inter%C3%A9s/ManufacturingAmfetasLINK.png) |
+
+### manufacturing.link
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Desktop/manufacturing.link             | 290dfaa70bbb28f0e7a0b4b36b23bd34                       | 2013-04-17 19:22:42 CEST | 2013-04-23 02:58:52 CEST | 2013-04-23 02:58:52 CEST | 2013-04-23 02:58:52 CEST | 669101     | ![manufacturinglink](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2e9774ef3def9cbdbcf644215aa39222a6eb9d3b/Pr%C3%A1cticas/img_anexo/Otros%20Datos%20de%20Inter%C3%A9s/ManufacturingLINK.png) |
+
+### providers.ico
+
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/John/Desktop/providers.ico            | 4a7c3029c15e632ce560f6cb8654e0a2                       | 2013-04-17 19:24:42 CEST | 2013-03-28 04:10:50 CET | 2013-05-01 22:03:00 CEST | 2013-04-23 02:58:35 CEST | 38400     | ![providersico](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2e9774ef3def9cbdbcf644215aa39222a6eb9d3b/Pr%C3%A1cticas/img_anexo/Otros%20Datos%20de%20Inter%C3%A9s/ProvidersICO.png) |
+
 
 # Caso 2: Pornografía
