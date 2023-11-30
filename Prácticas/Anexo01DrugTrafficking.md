@@ -16,7 +16,11 @@ Trabajo realizado por: Antonio Peñalver Caro
    * [Temporary Internet Files](#temporary-internet-files)
    * [Otros Datos de Interés](#otros-datos-de-interés)
 2. [Caso 2: Pornografía](#caso-2-pornografía)
-
+   * [Hojas de Cálculo](#hojas-de-cálculo)
+   * [Ficheros Comprimidos](#ficheros-comprimidos)
+   * [Cookies](#cookies)
+   * [Temporary Internet Files](#temporary-internet-files)
+  
 #
 
 # Caso 1: Tráfico de Drogas
@@ -339,10 +343,88 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 
 ### providers.ico
 
-
 |               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/John/Desktop/providers.ico            | 4a7c3029c15e632ce560f6cb8654e0a2                       | 2013-04-17 19:24:42 CEST | 2013-03-28 04:10:50 CET | 2013-05-01 22:03:00 CEST | 2013-04-23 02:58:35 CEST | 38400     | ![providersico](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2e9774ef3def9cbdbcf644215aa39222a6eb9d3b/Pr%C3%A1cticas/img_anexo/Otros%20Datos%20de%20Inter%C3%A9s/ProvidersICO.png) |
 
-
 # Caso 2: Pornografía
+
+## Hojas de Cálculo
+
+### Dc1.xls
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/RECYCLER/S-1-5-21-1343024091-152049171-725345543-1004/Dc1.xls            | 8bf95bc38e190d29924815187bf67f88                       | 2013-03-01 02:48:58 CET | 2013-03-28 04:09:54 CET | 2013-03-28 04:09:51 CET | 2013-04-23 04:12:47 CEST | 323584     | ![dc1.xls](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/159c7a5be70ffe659ce836a73050442ab43865e7/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/Dc1.xls.png) |
+
+## Ficheros Comprimidos
+
+### pedofilia.zip
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/My Documents/My Pictures/pedofilia.zip            | a54529c01bf3a24963ded1fa74579de5                       | 2013-03-28 05:33:36 CET | 2013-04-23 04:08:37 CEST | 2013-04-23 04:08:37 CEST | 2013-04-23 04:08:36 CEST | 8899826     | ![pedofilia.zip](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/159c7a5be70ffe659ce836a73050442ab43865e7/Pr%C3%A1cticas/img_anexo/Archivos%20Comprimidos/ilegal%20content.png) |
+
+## Cookies
+
+### ian@groups.google[2].txt
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/Cookies/ian@groups.google[2].txt            | 7e34bdb1729e5778fae435ce54be9a60                       | 2013-04-23 04:16:24 CEST | 2013-04-23 04:16:24 CEST | 2013-04-23 04:16:24 CEST | 2013-04-23 04:16:24 CEST | 450     | ![ian@groups.google[2].txt](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/159c7a5be70ffe659ce836a73050442ab43865e7/Pr%C3%A1cticas/img_anexo/Cookies/ian%40groupsgoogle.png) |
+
+## Temporary Internet Files
+
+### CA4QF27O.htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/Local Settings/Temporary Internet Files/Content.IE5/05O98JOH/CA4QF27O.htm            | 92bf7c6921d862b4c7e3f3f07af56165                       | 2013-04-23 04:15:44 CEST | 2013-04-23 04:15:44 CEST | 2013-04-23 04:15:44 CEST | 2013-04-23 04:15:44 CEST | 43014     | [CA4QF27O.htm](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/159c7a5be70ffe659ce836a73050442ab43865e7/Pr%C3%A1cticas/img_anexo/P%C3%A1ginas%20HTML/CA4QF270.htm.png) |
+
+### CA5DXOJN.htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/Local Settings/Temporary Internet Files/Content.IE5/2BA7G783/CA5DXOJN.htm            | 36bd0840ba0fb5d30de7e921b1bf282f                       | 2013-04-23 04:16:18 CEST | 2013-04-23 04:16:18 CEST | 2013-04-23 04:16:18 CEST | 2013-04-23 04:16:18 CEST | 42466     | [CA5DXOJN.htm](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0e37cc32eff1addb2b92715d24eff1cfc9f38fa6/Pr%C3%A1cticas/img_anexo/P%C3%A1ginas%20HTML/CA5DXOJN.htm.png) |
+
+### CAMZ4HQ7.htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/Local Settings/Temporary Internet Files/Content.IE5/2BA7G783/CAMZ4HQ7.htm            | 211160bf9e3675b685b297238c9f7b55                       | 2013-04-23 04:16:09 CEST | 2013-04-23 04:16:09 CEST | 2013-04-23 04:16:09 CEST | 2013-04-23 04:16:09 CEST | 43307     | [CAMZ4HQ7.htm](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0e37cc32eff1addb2b92715d24eff1cfc9f38fa6/Pr%C3%A1cticas/img_anexo/P%C3%A1ginas%20HTML/CAMZ4HQ7.htm.png) |
+
+### CAUELC8U.htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/Local Settings/Temporary Internet Files/Content.IE5/2BA7G783/CAUELC8U.htm            | bb3a3ecc9b1863cd54bd5247d366ee88                       | 2013-04-23 04:15:48 CEST | 2013-04-23 04:15:48 CEST | 2013-04-23 04:15:48 CEST | 2013-04-23 04:15:47 CEST | 42299     | [CAUELC8U.htm](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0e37cc32eff1addb2b92715d24eff1cfc9f38fa6/Pr%C3%A1cticas/img_anexo/P%C3%A1ginas%20HTML/CAUELC8U.htm.png) |
+
+### CAUJIFSP.htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/Local Settings/Temporary Internet Files/Content.IE5/2BA7G783/CAUJIFSP.htm            | 6a2fc5d2d5b5874db67ba01230212333                       | 2013-04-23 04:15:57 CEST | 2013-04-23 04:15:57 CEST | 2013-04-23 04:15:57 CEST | 2013-04-23 04:15:57 CEST | 43861     | [CAUJIFSP.htm](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0e37cc32eff1addb2b92715d24eff1cfc9f38fa6/Pr%C3%A1cticas/img_anexo/P%C3%A1ginas%20HTML/CAUJIFSP.htm.png) |
+
+### CA7FA2ML.htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/Local Settings/Temporary Internet Files/Content.IE5/ONAJYTEX/CA7FA2ML.htm            | 5f5775f0d2f6566b3377d9f09436002e                       | 2013-04-23 04:16:03 CEST | 2013-04-23 04:16:03 CEST | 2013-04-23 04:16:03 CEST | 2013-04-23 04:16:03 CEST | 42844     | [CA7FA2ML.htm](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0e37cc32eff1addb2b92715d24eff1cfc9f38fa6/Pr%C3%A1cticas/img_anexo/P%C3%A1ginas%20HTML/CA7FA2ML.htm.png) |
+
+### CAQHXECL.htm
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Documents and Settings/Ian/Local Settings/Temporary Internet Files/Content.IE5/ONAJYTEX/CAQHXECL.htm            | 486225e499e830e1e57ffff16cb805ae                       | 2013-04-23 04:15:52 CEST | 2013-04-23 04:15:52 CEST | 2013-04-23 04:15:52 CEST | 2013-04-23 04:15:52 CEST | 42749     | [CAQHXECL.htm](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0e37cc32eff1addb2b92715d24eff1cfc9f38fa6/Pr%C3%A1cticas/img_anexo/P%C3%A1ginas%20HTML/CAQHXECL.htm.png) |
+
+
+
+
+
+
+
+
+
+
+
+
