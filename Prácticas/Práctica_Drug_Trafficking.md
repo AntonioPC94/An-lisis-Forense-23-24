@@ -249,7 +249,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En el apartado "OS Account" de Autopsy, vi que dichos archivos estaban asignados al identificador de Jhon.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Hojas de Cálculo"**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Hojas de Cálculo 1"**
 
 - **Ficheros comprimidos.**
 
@@ -268,7 +268,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
     - Búsqueda en "www.narcoticnews.com", una página que informa sobre las últimas sustancias estupefacientes sacadas al mercado.
     - Búsqueda en "www.gov.uk", página del gobierno de Reino Unido, en la cual entró el sospechoso para investigar sobre las multas o penas de cárcel que podría sufrir en          caso de que le pillasen creando sustancias estupefacientes en casa.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Cookies".**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Cookies 1".**
 
   En la carpeta "Local Settings", había una carpeta llamada "History" y dentro de ella, había un directorio llamado "History.IE5". En este había varios subdirectorios con      información sobre todas las búsquedas realizadas en Internet por el usuario Jhon.
   
@@ -291,7 +291,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Información sobre el control de drogas en United Kingdom.
   - Etcétera
  
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Temporary Internet Files"**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Temporary Internet Files 1"**
  
 - **Otros datos de interés.**
 
@@ -336,7 +336,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En el apartado "OS Account" de Autopsy, vi que dicho archivo está asignado al identificador de Ian.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Hojas del Cálculo"**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Hojas del Cálculo 2"**
   
 - **Ficheros comprimidos.**
   
@@ -357,13 +357,13 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   - Búsqueda en "www.groups.google.com", el sospechoso buscaba en este caso unirse a algún grupo de porno ilegal.
  
-   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Cookies"**
+   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Cookies 2"**
 
   En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba cuatro subdirectorios que contenían información sobre imágenes,        búsquedas realizadas por el sospechoso en su día a día, etcétera. Concretamente habían 410 ficheros.
 
   De entre todas esas imágenes y búsquedas, conseguí sacar una serie de ficheros ".htm" que mostraban diferentes búsquedas de Google relacionadas con la pornografía.
 
-   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Temporary Internet Files"**
+   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Temporary Internet Files 2"**
   
 
 
