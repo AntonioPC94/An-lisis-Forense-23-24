@@ -291,11 +291,11 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
    **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Otros Datos de Interés"**
 
-    Nota: Las imágenes incluidas en el archivo "manufacturing.link" nos las podremos encontrar por separado en el árbol de archivos que cuelgan del directorio "Escritorio"             de Jhon.
+    Nota: Las imágenes incluidas en el archivo "manufacturing.link" nos las podremos encontrar por separado en un archivo nombrado con el mismo nombre que cuelga del             directorio "Escritorio" de Jhon.
 
 5) **¿Has podido localizar alguna otra evidencia relacionada con algún otro tipo delictivo?. En caso afirmativo, describe y extrae los hallazgos localizados, y determina y lleva a cabo aquellas acciones que realizarías en calidad de perito (puedes utilizar, coomo guión, los apartados de la pregunta 4).**
 
-   Sí, tal y como comenté anteriormente, encontré información sobre otro caso en el directorio "RECYCLER". Por lo tanto, voy a investigar al resto de los            usuarios presentes en el sistema para ver quién puede ser el/la responsable.
+   Sí, tal y como comenté anteriormente, encontré información sobre otro caso en el directorio "RECYCLER". Por lo tanto, voy a investigar al resto de los usuarios presentes     en el sistema para ver quién puede ser el/la responsable.
 
 # Caso 2: Pornografía
 
