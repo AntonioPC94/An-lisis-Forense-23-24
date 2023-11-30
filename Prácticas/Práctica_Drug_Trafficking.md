@@ -293,7 +293,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
     Nota: Las imágenes vistas en el archivo "manufacturing.link" nos las podremos encontrar también en el "Escritorio" de Jhon.
 
-5) ¿Has podido localizar alguna otra evidencia relacionada con algún otro tipo delictivo?. En caso afirmativo, describe y extrae los hallazgos localizados, y determina y lleva a cabo aquellas acciones que realizarías en calidad de perito (puedes utilizar, coomo guión, los apartados de la pregunta 4).
+5) **¿Has podido localizar alguna otra evidencia relacionada con algún otro tipo delictivo?. En caso afirmativo, describe y extrae los hallazgos localizados, y determina y lleva a cabo aquellas acciones que realizarías en calidad de perito (puedes utilizar, coomo guión, los apartados de la pregunta 4).**
 
    Sí, tal y como comenté anteriormente, encontré información sobre otro caso en el directorio "RECYCLER". Por lo tanto, voy a investigar al resto de los            usuarios presentes en el sistema para ver quién puede ser el/la responsable.
 
