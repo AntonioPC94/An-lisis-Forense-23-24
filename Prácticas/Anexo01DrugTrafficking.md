@@ -18,8 +18,8 @@ Trabajo realizado por: Antonio Peñalver Caro
 2. [Caso 2: Pornografía](#caso-2-pornografía)
    * [Hojas de Cálculo 2](#hojas-de-cálculo-2)
    * [Ficheros Comprimidos](#ficheros-comprimidos)
-   * [Cookies](#cookies-2)
-   * [Temporary Internet Files](#temporary-internet-files-2)
+   * [Cookies 2](#cookies-2)
+   * [Temporary Internet Files 2](#temporary-internet-files-2)
   
 #
 
