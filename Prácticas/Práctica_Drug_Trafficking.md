@@ -163,7 +163,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 - **Localización y extracción de archivos eliminados.**
   
-  En los "$OrphanFiles" del sistema, encontré los siguientes archivos fotográficos relacionados con el caso que estoy investigando:
+  En los "$OrphanFiles" del sistema, encontré 20 imágenes relacionadas con el caso, de las cuales 19 pude visualizar sin problemas. La única que no pude visualizar, fue la     nombrada como "proceso final.jpg".
   
   - Imágenes nombradas como: "Almacen mataro 2.jpg", "Almacen mataro 3.jpg", "Almacen mataro.jpg, "Almacen terrassa 3.jpg", "Almacen terrassa 4.jpg", "Almacen terrassa.jpg",     "coca.jpg", "fabricando coca 2.jpg", "fabricando coca 3.jpg", "fabricando coca 4.jpg", "fabricando coca.jpg", "fiesta Jorge.jpg", "kasius 2.jpg", "kasius.jpg", "Maria en     negocio Jorge.jpg", "mercancia 2.jpg", "Mercancia terrassa.jpg", "mercancia.jpg", y "pastillas.jpg".
 
@@ -175,7 +175,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
 - **Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.**
 
-  En el "Escritorio" de Jhon, encontré el siguiente documento:
+  En el "Escritorio" de Jhon, encontré 6 archivos, de los cuales 1 era un documento PDF, dicho documento está relacionado con el caso.
 
   - Archivo PDF nombrado como: "coca.pdf".
 
@@ -195,7 +195,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Usuario: Jhon".**
 
-  En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios llamado "Dc2", el cual contenía las siguientes imágenes:
+  En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios que se llamaba "Dc2", el cual contenía las siguientes imágenes:
 
   - Imágenes nombradas como: "20130329_140030.jpg", "20130329_140033.jpg" y "20130329_140035.jpg".
 
