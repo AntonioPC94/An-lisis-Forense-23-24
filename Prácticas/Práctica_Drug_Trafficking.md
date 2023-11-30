@@ -347,6 +347,8 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   En el apartado "OS Account" de Autopsy, vi que dicho archivo está asignado al identificador de Ian.
 
    **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Ficheros Comprimidos"**
+
+  Nota: Como no se puede extraer la carpeta "ilegal content" para sacarle el HASH, voy a poner en el anexo la información del fichero comprimido.
   
 - **¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?**
 - **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
