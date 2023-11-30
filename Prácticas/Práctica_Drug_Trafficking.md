@@ -171,7 +171,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Orphan Files".**
 
-  Nota: Las imágenes también las podemos encontrar en los "$CarvedFiles" y en los "Deleted Files" del sistema.
+  Nota: Las imágenes también las podemos encontrar duplicadas o con los nombres cambiados en los "$CarvedFiles" y en los "Deleted Files" del sistema.
   
 - **Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.**
 
@@ -295,9 +295,30 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 5) **¿Has podido localizar alguna otra evidencia relacionada con algún otro tipo delictivo?. En caso afirmativo, describe y extrae los hallazgos localizados, y determina y lleva a cabo aquellas acciones que realizarías en calidad de perito (puedes utilizar, coomo guión, los apartados de la pregunta 4).**
 
-   Sí, tal y como comenté anteriormente, encontré información sobre otro caso en el directorio "RECYCLER". Por lo tanto, voy a investigar al resto de los usuarios presentes     en el sistema para ver quién puede ser el/la responsable.
+   Sí, encontré información sobre otro caso en el directorio "RECYCLER", esta podría estar relacionada con un delito de pornografía infantil. Por lo tanto, voy a investigar     más a fondo a los usuarios presentes en el sistema para ver cuál de ellos es el/la sospechoso/a del siguiente caso.
 
 # Caso 2: Pornografía
+
+4) **Localiza, extrae y relaciona los siguientes hallazgos, asociándose, si es posible, al usuario al cual pertenecen:**
+
+- **Localización y extracción de archivos eliminados.**
+
+  No he encontrado archivos eliminados relacionados con el nuevo caso tanto por parte de ninguno de los usuarios del sistema.
+  
+- **Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.**
+  
+- **¿Los ficheros fotográficos contienen algún tipo de metadatos? En caso afirmativo, ¿qué información te permiten obtener?**
+- **Hojas de cálculo.**
+- **Ficheros comprimidos.**
+  
+  En la carpeta Documentos de Ian, concretamente en el subdirectorio "My Pictures", encontré un par de archivos, de los cuales uno de ellos está relacionado con el caso que    mencionamos al final del caso anterior.
+
+  Este archivo, es un fichero comprimido llamado "pedofilia.zip", cuyo contenido no se puede ver al completo, ya que está protegido con contraseña. Lo único que se puede ver   de él, es una subcarpeta llamada "ilegal content", la cual contiene 186 carpetas con imágenes ".png" relacionadas con el caso.
+
+   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Ficheros Comprimidos"**
+  
+- **¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?**
+- **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
 
 
 
