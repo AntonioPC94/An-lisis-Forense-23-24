@@ -169,7 +169,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   En dichas imágenes, aparecen por ejemplo, varias personas consumiendo sustancias estupefacientes, un par de recetas que muestran el proceso de fabricación de la cocaína,     etcétera.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Orphan Files".**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Orphan Files".**
 
   Nota: Las imágenes también las podemos encontrar duplicadas o con los nombres cambiados en los "$CarvedFiles" y en los "Deleted Files" del sistema.
   
@@ -181,7 +181,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Este archivo contiene información sobre la taxonomía que tienen las plantas de coca.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Usuario: Jhon".**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Usuario: Jhon".**
   
   Dentro del directorio "Documentos" de Jhon, encontré un subdirectorio llamado "mataro-store", el cual contenía las siguientes imágenes:
 
@@ -193,7 +193,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que he mostrado en el apartado anterior.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Usuario: Jhon".**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Usuario: Jhon".**
 
   En la carpeta "RECYCLER", había un directorio dentro de uno de sus subdirectorios que se llamaba "Dc2", el cual contenía algunos archivos y las siguientes imágenes que       están relacionadas con el caso:
 
@@ -205,7 +205,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Esta imagen muestra el plano de un edificio, que posiblemente sea del edificio que mostré en el apartado anterior.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "RECYCLER".**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / RECYCLER".**
 
   Nota: En la carpeta "RECYCLER" encontré también archivos relacionados con otro caso, pero estos los analizaré más adelante.
 
@@ -213,7 +213,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   Entre los metadatos de las imágenes que encontré en la carpeta "RECYCLER", descubrí la marca y el modelo del teléfono móvil con el que el sospechoso realizó las fotos.       Tras dicho descubrimiento, realicé una pequeña búsqueda en Google y descubrí que se trataba de un Samsung Galaxy S3 Mini.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Metadatos".**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Metadatos".**
   
 - **Hojas de cálculo.**
 
@@ -229,7 +229,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
   Este archivo contiene las credenciales de acceso de Jhon a distintas plataformas de Internet. Por ejemplo, a su correo electrónico, a Ebay, etcétera.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Hojas de Cálculo"**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Hojas de Cálculo"**
 
 - **Ficheros comprimidos.**
 
@@ -248,7 +248,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
     - Búsqueda en "www.narcoticnews.com", una página que informa sobre las últimas sustancias estupefacientes sacadas al mercado.
     - Búsqueda en "www.gov.uk", página del gobierno de Reino Unido, en la cual entró el sospechoso para investigar sobre las multas o penas de cárcel que podría sufrir en          caso de que le pillasen creando sustancias estupefacientes en casa.
 
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Cookies".**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Cookies".**
 
   En la carpeta "Local Settings", había una carpeta llamada "History" y dentro de ella, había un directorio llamado "History.IE5". En este había varios subdirectorios con      información sobre todas las búsquedas realizadas en Internet por el usuario Jhon.
   
@@ -260,7 +260,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Búsquedas en Wikipedia para conocer o revisar el código penal español.
   - Etcétera.
  
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Local Settings"**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Local Settings"**
 
   En la carpeta "Temporary Internet Files", había un subdirectorio llamado "Content.IE5". Este albergaba tres subdirectorios que contenían información sobre algunas de las     búsquedas realizadas por el sospechoso en algunos momentos de su día a día.
 
@@ -271,7 +271,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   - Información sobre el control de drogas en United Kingdom.
   - Etcétera
  
-  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Temporary Internet Files"**
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Temporary Internet Files"**
  
 - **Otros datos de interés.**
 
@@ -289,13 +289,13 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
  
     Este archivo contiene información sobre algunos de los proveedores con los que contactaba el sospechoso.
 
-   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Otros Datos de Interés"**
+   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Otros Datos de Interés"**
 
     Nota: Las imágenes incluidas en el archivo "manufacturing.link" nos las podremos encontrar por separado en un archivo nombrado con el mismo nombre que cuelga del             directorio "Escritorio" de Jhon.
 
 5) **¿Has podido localizar alguna otra evidencia relacionada con algún otro tipo delictivo?. En caso afirmativo, describe y extrae los hallazgos localizados, y determina y lleva a cabo aquellas acciones que realizarías en calidad de perito (puedes utilizar, coomo guión, los apartados de la pregunta 4).**
 
-   Sí, encontré información sobre otro caso en el directorio "RECYCLER", esta podría estar relacionada con un delito de pornografía infantil. Por lo tanto, voy a investigar     más a fondo a los usuarios presentes en el sistema para ver cuál de ellos es el/la sospechoso/a del siguiente caso.
+   Sí, encontré información sobre otro caso en el directorio "RECYCLER", dicha información podría estar relacionada con un delito de pornografía. Por lo tanto, voy     a investigar más a fondo a los usuarios presentes en el sistema para ver cuál de ellos es el/la sospechoso/a del siguiente caso.
 
 # Caso 2: Pornografía
 
@@ -309,13 +309,18 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
   
 - **¿Los ficheros fotográficos contienen algún tipo de metadatos? En caso afirmativo, ¿qué información te permiten obtener?**
 - **Hojas de cálculo.**
+
+  En la carpeta "RECYCLER", había una hoja de cálculo dentro de uno de sus subdirectorios que se llamaba "Dc1.xls", esta contenía lo que parecía ser una lista de vídeos        subidos a la plataforma EMule.
+
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Hojas del Cálculo"**
+  
 - **Ficheros comprimidos.**
   
   En la carpeta Documentos de Ian, concretamente en el subdirectorio "My Pictures", encontré un par de archivos, de los cuales uno de ellos está relacionado con el caso que    mencionamos al final del caso anterior.
 
   Este archivo, es un fichero comprimido llamado "pedofilia.zip", cuyo contenido no se puede ver al completo, ya que está protegido con contraseña. Lo único que se puede ver   de él, es una subcarpeta llamada "ilegal content", la cual contiene 186 carpetas con imágenes ".png" relacionadas con el caso.
 
-   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Ficheros Comprimidos"**
+   **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Ficheros Comprimidos"**
   
 - **¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?**
 - **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
