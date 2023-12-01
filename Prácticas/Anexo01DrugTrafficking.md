@@ -228,8 +228,13 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 Aquí podemos ver el proceso que comenté en el informe:
 
 <p align="center">
-<img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/c6566949f1d14ee05c858d87852e1cda95ed0eac/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/ContactesXLSRoto.png" alt="img28" alt="Descripción imagen 1" width="40%"/> <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/c6566949f1d14ee05c858d87852e1cda95ed0eac/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/ContactesXLSRoto2.png" alt="Descripción imagen 2" width="40%"/>
+<img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/c6566949f1d14ee05c858d87852e1cda95ed0eac/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/ContactesXLSRoto.png" alt="ContactesXLSRoto" alt="Descripción imagen 1" width="40%"/> <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/c6566949f1d14ee05c858d87852e1cda95ed0eac/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/ContactesXLSRoto2.png" alt="ContactesXLSRoto2" width="40%"/>
 </p>
+
+### Contenido: Contactes.xls
+
+<p align="center">
+<img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/74ed03734909233d2e335e64f24d1b51eb206d6b/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/ContactesXLSVista.png" alt="
 
 ### contrasenyas.xls
 
