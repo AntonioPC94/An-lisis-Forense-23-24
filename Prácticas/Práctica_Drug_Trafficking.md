@@ -377,7 +377,18 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
    **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Temporary Internet Files 2"**
   
+- Otros datos de interés
 
+  Por último, en la carpeta "Program Files", en el subdirectorio "eMule", encontré varios directorios con información sobre el programa. De toda esa información, me llamó la   atención un fichero ".txt" alojado en el directorio "config".
+
+  Dicho fichero, nombrado como "downloads.txt", contenía información sobre las descargas realizadas por el usuario Ian en el programa eMule.
+
+  En el apartado "OS Account" de Autopsy, vi que dicho archivo está asignado al identificador de Ian.
+
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 2: Pornografía / Otros Datos de Interés 2"**
+  
+
+  
 
 
 
