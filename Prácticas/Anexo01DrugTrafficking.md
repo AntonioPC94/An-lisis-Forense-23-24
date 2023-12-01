@@ -223,6 +223,14 @@ Los metadatos fueron extraídos de una de las imágenes encontradas en una de la
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/John/Desktop/Contactes.xls             | 84f9be74d345e59725a8c793e7370d8f                       | 2013-03-28 05:07:40 CET | 2013-04-23 02:58:27 CEST | 2013-04-23 02:58:27 CEST | 2013-04-23 02:58:27 CEST | 14848     | ![Contactes](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/8e03c0454ac64ce9583735b9f4db12d86d776e5b/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/ContactesXLS.png) |
 
+### Contraseña: Contactes.xls
+
+Aquí podemos ver el proceso que comenté en el informe:
+
+<p align="center">
+<img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/c6566949f1d14ee05c858d87852e1cda95ed0eac/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/ContactesXLSRoto.png" alt="img28" alt="Descripción imagen 1" width="25%"/> <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/c6566949f1d14ee05c858d87852e1cda95ed0eac/Pr%C3%A1cticas/img_anexo/Hojas%20de%20C%C3%A1lculo/ContactesXLSRoto2.png" alt="Descripción imagen 2" width="25%"/>
+</p>
+
 ### contrasenyas.xls
 
 |               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
