@@ -14,12 +14,13 @@ Trabajo realizado por: Antonio Peñalver Caro
    * [Cookies 1](#cookies-1)
    * [Local Settings](#local-settings)
    * [Temporary Internet Files 1](#temporary-internet-files-1)
-   * [Otros Datos de Interés](#otros-datos-de-interés)
+   * [Otros Datos de Interés 1](#otros-datos-de-interés-1)
 2. [Caso 2: Pornografía](#caso-2-pornografía)
    * [Hojas de Cálculo 2](#hojas-de-cálculo-2)
    * [Ficheros Comprimidos](#ficheros-comprimidos)
    * [Cookies 2](#cookies-2)
    * [Temporary Internet Files 2](#temporary-internet-files-2)
+   * [Otros Datos de Interés 2](#otros-datos-de-interés-2)
   
 #
 
@@ -340,7 +341,7 @@ Aquí podemos ver el proceso que comenté en el informe:
 
 #
 
-## Otros Datos de Interés
+## Otros Datos de Interés 1
 
 ### manufacturing amfetas.link
 
@@ -430,7 +431,13 @@ Aquí podemos ver el proceso que comenté en el informe:
 |:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
 | /img_AFI_W.E01/Documents and Settings/Ian/Local Settings/Temporary Internet Files/Content.IE5/ONAJYTEX/CAQHXECL.htm            | 486225e499e830e1e57ffff16cb805ae                       | 2013-04-23 04:15:52 CEST | 2013-04-23 04:15:52 CEST | 2013-04-23 04:15:52 CEST | 2013-04-23 04:15:52 CEST | 42749     |  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0e37cc32eff1addb2b92715d24eff1cfc9f38fa6/Pr%C3%A1cticas/img_anexo/P%C3%A1ginas%20HTML/CAQHXECL.htm.png" width="60" height="40"> |
 
+## Otros Datos de Interés 2
 
+### downloads.txtMD5 Hash	afb6642faa40b221aecadd180d10c27d
+
+|               Ruta                                            |                      MD5                              | Fecha de Modificación    | Fecha de Cambio       | Fecha de Acceso         | Fecha de Creación    | Tamaño (Bytes)   | Vista Previa              |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------:|:-----------------------:|:--------------------:|:--------:|:-------------------------:|
+| /img_AFI_W.E01/Program Files/eMule/config/downloads.txt            | afb6642faa40b221aecadd180d10c27d                       | 2013-04-23 02:39:26 CEST | 2013-03-28 04:09:08 CET | 2013-03-28 04:09:01 CET | 2013-04-23 04:09:40 CEST | 6442     |  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/2b2340783e909a43216a5abcefdd8da955981e0f/Pr%C3%A1cticas/img_anexo/Otros%20Datos%20de%20Inter%C3%A9s/downloads.txt.png" width="60" height="40"> |
 
 
 
