@@ -239,7 +239,7 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
   - Archivo Excel nombrado como: "Contactes.xls".
   
-  Este archivo no se puede abrir, ya que está protegido con una contraseña.
+  Este fichero está protegido con contraseña, pero con un par de programas he conseguido averiguarla y acceder al contenido.
 
   En el directorio "Documentos" de Jhon, encontré la siguiente hoja de cálculo:
 
@@ -257,8 +257,12 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
     
 - **¿Has localizado algún fichero con contraseña? ¿Has podido acceder a su contenido?**
 
-  Si, tal y como comenté anteriormente, encontré una hoja de cálculo protegida con contraseña (Contactes.xls). No, no he podido acceder a su contenido.
-  
+  Si, tal y como comenté anteriormente, encontré una hoja de cálculo protegida con contraseña (Contactes.xls). Si que pude acceder a su contenido. Lo que hice, fue             investigar un poco por internet y encontré un fichero de Python llamado "office2jhon.py", cuya función era sacar el hash de los ficheros con extensión ".docx", "xls",         etcétera que le pusiésemos en la orden.
+
+  Una vez obtuve el hash, lo almacené en un fichero ".txt" y se lo pasé al programa "Jhon The Ripper" con el diccionario "rockyou.txt". Al poco tiempo, el programa me indicó   que la contraseña de la hoja de cáculo era: 12345
+
+  **Véase dicha información en el anexo adjunto a este informe: [AnexoDrugTrafficking.md](https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/0dd4350523ff7c8b1674e6c20704aefc58e158ff/Pr%C3%A1cticas/Anexo01DrugTrafficking.md), apartado "Caso 1: Tráfico de Drogas / Hojas de Cálculo 1"**
+
 - **Estudio de la navegación a través de internet: históricos de internet, URLs favoritas, búsquedas, etc.**
   
   En la carpeta "Cookies", habían 50 ficheros ".txt" y 1 fichero ".dat" con información sobre algunas de las búsquedas realizadas por el usuario Jhon. De todos esos            ficheros, solo 4 me llamaron la atención:
@@ -325,15 +329,15 @@ Si, ya que la fecha de instalación del sistema, es posterior a la del último "
 
 - **Localización y extracción de archivos eliminados.**
 
-  No he encontrado archivos eliminados relacionados con el nuevo caso tanto por parte de ninguno de los usuarios del sistema.
+  No he encontrado archivos eliminados relacionados con el nuevo caso por parte de ninguno de los usuarios del sistema.
   
 - **Documentos y archivos fotográficos relacionados con presuntas conductas delictivas.**
 
-  (**RESPONDER**)
+  No he encontrado documentos, ni archivos fotográficos relacionados con el nuevo caso por parte de ninguno de los usuarios del sistema.
   
 - **¿Los ficheros fotográficos contienen algún tipo de metadatos? En caso afirmativo, ¿qué información te permiten obtener?**
 
-  (**RESPONDER**)
+  Al no encontrar ningún archivo fotográfico, no pude obtener ningún tipo de metadato.
   
 - **Hojas de cálculo.**
 
