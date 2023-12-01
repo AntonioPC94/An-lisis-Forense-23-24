@@ -1,5 +1,9 @@
 # Anexo Drug Trafficking
 
+<p align="center">
+  <img src="https://github.com/AntonioPC94/Analisis-Forense-23-24/blob/5feaf4bfe47bfea95b4d214f7b784acc4b275e8b/Pr%C3%A1cticas/img/img17.png" alt="img17"/>
+</p>
+
 Trabajo realizado por: Antonio Peñalver Caro
 
 #
